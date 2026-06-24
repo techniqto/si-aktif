@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SI-AKTIF - Sistem Absensi SMAN 47 Jakarta</title>
+    
+    <!-- Google Fonts: Inter & Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+    <!-- Generic Modal for CRUD -->
+    <div id="crud-modal" class="modal-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center;">
+        <div class="modal-content" style="background: var(--color-bg); padding: 2rem; border-radius: var(--border-radius-md); width: 100%; max-width: 500px; box-shadow: var(--shadow-lg);">
+            <div class="d-flex justify-between align-center" style="margin-bottom: 1.5rem;">
+                <h3 id="modal-title" class="font-heading" style="margin: 0;">Modal Title</h3>
+                <button onclick="document.getElementById('crud-modal').style.display='none'" style="background: none; border: none; cursor: pointer; color: var(--color-text-light);"><i data-lucide="x"></i></button>
+            </div>
+            <div id="modal-body">
+                <!-- Injected via JS -->
+            </div>
+            <div class="d-flex justify-end gap-2" style="margin-top: 1.5rem; border-top: 1px solid var(--color-border); padding-top: 1rem;">
+                <button type="button" class="btn btn-outline" onclick="document.getElementById('crud-modal').style.display='none'">Batal</button>
+                <button type="button" class="btn btn-primary" id="modal-save-btn">Simpan</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Custom Delete Confirmation Modal -->
+    <div id="delete-confirm-modal" class="modal-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.4); backdrop-filter: blur(4px); z-index: 1001; align-items: center; justify-content: center;">
+        <div class="modal-content" style="background: var(--color-surface); padding: 2.25rem; border-radius: var(--border-radius-lg); width: 100%; max-width: 440px; box-shadow: var(--shadow-lg); border: 1px solid var(--color-border); text-align: center;">
+            <div class="logo-circle" style="background: rgba(239, 68, 68, 0.08); color: var(--color-alfa); width: 56px; height: 56px; margin: 0 auto 1.5rem; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                <i data-lucide="alert-triangle" style="width: 28px; height: 28px;"></i>
+            </div>
+            <h3 class="font-heading" style="margin-bottom: 0.75rem; font-size: 1.25rem; color: var(--color-navy);">Konfirmasi Hapus</h3>
+            <p id="delete-confirm-message" style="color: var(--color-text-light); font-size: 0.875rem; line-height: 1.5; margin-bottom: 2rem;">Apakah Anda yakin ingin menghapus data ini? Data yang dihapus tidak dapat dikembalikan.</p>
+            <div class="d-flex justify-center gap-4" style="border-top: 1px solid var(--color-border); padding-top: 1.25rem;">
+                <button type="button" class="btn btn-outline" id="delete-cancel-btn" style="flex: 1; border-radius: 10px;">Batal</button>
+                <button type="button" class="btn" id="delete-confirm-btn" style="flex: 1; background: linear-gradient(135deg, #ef4444, #dc2626); color: white; border-radius: 10px; font-weight: 700; box-shadow: 0 4px 12px rgba(239, 68, 68, 0.15);">Hapus</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container"></div>
+
+    <!-- MAIN APP CONTAINER -->
+    <div id="app">
+        
+        <!-- ============================================== -->
+        <!-- LOGIN VIEW                                     -->
+        <!-- ============================================== -->
+        <section id="view-login" class="view active">
+            <div class="login-wrapper">
+                <div class="login-card glass-card">
+                    <div class="login-header">
+                        <div class="logo-circle">
+                            <i data-lucide="school" class="logo-icon"></i>
+                        </div>
+                        <h1 class="font-heading">SI-AKTIF</h1>
+                        <p class="subtitle">Sistem Absensi SMAN 47 Jakarta</p>
+                    </div>
+                    <form id="login-form">
+                        <div class="form-group">
+                            <label for="username">Kode Guru / Username</label>
+                            <div class="input-icon-wrapper">
+                                <i data-lucide="user"></i>
+                                <input type="text" id="username" name="username" placeholder="Masukkan kode guru" required autocomplete="username">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <div class="input-icon-wrapper">
+                                <i data-lucide="lock"></i>
+                                <input type="password" id="password" name="password" placeholder="Masukkan password" required autocomplete="current-password">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">
+                            Masuk ke Sistem <i data-lucide="arrow-right"></i>
+                        </button>
+                    </form>
+                    <div class="login-footer">
+                        <p>Demo Credentials:</p>
+                        <p>Admin: <strong>admin</strong> | <strong>admin123</strong></p>
+                        <p>Guru: <strong>O1</strong> | <strong>guru123</strong></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================== -->
+        <!-- APP SHELL (Sidebar + Topbar + Content)         -->
+        <!-- ============================================== -->
+        <section id="view-app" class="view">
+            
+            <!-- SIDEBAR -->
+            <aside id="sidebar" class="sidebar">
+                <div class="sidebar-header">
+                    <div class="logo-circle small">
+                        <i data-lucide="school"></i>
+                    </div>
+                    <div class="brand">
+                        <h2>SI-AKTIF</h2>
+                        <span>SMAN 47 Jakarta</span>
+                    </div>
+                </div>
+
+                <nav id="sidebar-nav" class="sidebar-nav">
+                    <div style="padding: 0 1.5rem; margin-top: 1rem; margin-bottom: 0.5rem; font-size: 0.75rem; font-weight: 600; color: var(--color-text-lighter); letter-spacing: 0.05em;">MAIN MENU</div>
+                    <!-- Nav items dynamically injected by JS based on role -->
+                </nav>
+
+                <div class="sidebar-footer">
+                    <div class="sidebar-user-profile">
+                        <div class="avatar" id="sidebar-avatar">U</div>
+                        <div class="user-info">
+                            <span id="sidebar-user-name" class="name">Nama User</span>
+                            <span id="sidebar-user-role" class="role">Role</span>
+                        </div>
+                        <button id="btn-logout" class="btn-logout-icon" title="Logout">
+                            <i data-lucide="log-out"></i>
+                        </button>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- MAIN CONTENT WRAPPER -->
+            <main class="main-content">
+                
+                <!-- TOPBAR -->
+                <header class="topbar">
+                    <div class="topbar-left">
+                        <button id="btn-mobile-menu" class="btn-icon mobile-only">
+                            <i data-lucide="menu"></i>
+                        </button>
+                        <div class="breadcrumbs" style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; color: var(--color-text-light);">
+                            <i data-lucide="home" style="width: 16px; height: 16px;"></i> Home 
+                            <span style="font-size: 1.2rem;">&bull;</span> 
+                            <span id="breadcrumb-current" style="color: var(--color-primary); font-weight: 500;">Dashboard</span>
+                        </div>
+                    </div>
+                    <div class="topbar-right" style="display: flex; align-items: center; gap: 1rem;">
+                        <div class="search-bar" style="position: relative; width: 250px;">
+                            <i data-lucide="search" style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--color-text-lighter);"></i>
+                            <input type="text" class="topbar-search" placeholder="Search">
+                        </div>
+                        <button class="btn btn-primary" style="border-radius: 999px; padding: 0.5rem 1.25rem; font-size: 0.825rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; border: none;">
+                            <i data-lucide="download" style="width: 15px; height: 15px;"></i> Export
+                        </button>
+                    </div>
+                </header>
+
+                <div style="padding: 0 2rem; margin-top: 1rem; display: flex; align-items: center; justify-content: space-between;">
+                    <h2 id="page-title" class="font-heading" style="font-size: 1.75rem;">Dashboard</h2>
+                    <div class="datetime" style="font-size: 0.875rem; color: var(--color-text-light); display: flex; align-items: center; position: relative; background: var(--color-bg); padding: 0.25rem 0.75rem; border-radius: var(--border-radius-md); border: 1px solid var(--color-border);">
+                        <i data-lucide="calendar" style="width: 16px; color: var(--color-indigo);"></i>
+                        <select id="global-date-picker" style="border:none; background:transparent; font-family:inherit; color:var(--color-text-main); font-weight:600; cursor:pointer; font-size: 0.875rem; outline: none; margin-left: 0.5rem; appearance: none; padding-right: 1.5rem;">
+                        </select>
+                        <i data-lucide="chevron-down" style="position: absolute; right: 0.75rem; pointer-events: none; width: 14px; height: 14px; color: var(--color-text-light);"></i>
+                    </div>
+                </div>
+
+                <!-- PAGE CONTENT AREA -->
+                <div class="page-container" id="page-container">
+                    
+                    <!-- ADMIN PAGES -->
+                    <div id="page-admin-dashboard" class="page">
+                        <!-- Admin Dashboard Content (injected by JS) -->
+                    </div>
+
+                    <div id="page-admin-guru" class="page">
+                        <!-- Manajemen Guru Content (injected by JS) -->
+                    </div>
+
+                    <div id="page-admin-siswa" class="page">
+                        <!-- Manajemen Siswa Content (injected by JS) -->
+                    </div>
+
+                    <div id="page-admin-kelas" class="page">
+                        <!-- Manajemen Kelas Content (injected by JS) -->
+                    </div>
+
+                    <div id="page-pengaturan" class="page">
+                        <!-- Pengaturan Content (injected by JS) -->
+                    </div>
+
+                    <!-- TEACHER/WALI KELAS PAGES -->
+                    <div id="page-teacher-dashboard" class="page">
+                        <!-- Teacher Dashboard Content -->
+                    </div>
+
+                    <div id="page-absensi-wali" class="page">
+                        <!-- Absensi Harian Wali Kelas Content -->
+                    </div>
+
+                    <div id="page-absensi-mapel" class="page">
+                        <!-- Absensi Per Sesi Guru Mapel Content -->
+                    </div>
+
+                    <div id="page-rekap" class="page">
+                        <!-- Rekap Bulanan Content -->
+                    </div>
+
+                    <div id="page-grafik" class="page">
+                        <!-- Grafik Tren Kehadiran Content -->
+                    </div>
+
+                    <div id="page-calendar" class="page">
+                        <!-- Kalender Absensi Content -->
+                    </div>
+
+                    <div id="page-jadwal-mengajar" class="page">
+                        <!-- Jadwal Mengajar Content -->
+                    </div>
+
+                </div>
+            </main>
+        </section>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/data.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/admin/teacherApi.js"></script>
+    <script src="js/admin/teacherTable.js"></script>
+    <script src="js/admin/teacherModal.js"></script>
+    <script src="js/admin/studentApi.js"></script>
+    <script src="js/admin/studentTable.js"></script>
+    <script src="js/admin/studentModal.js"></script>
+    <script src="js/admin.js"></script>
+    <script src="js/teacher.js"></script>
+    <script src="js/calendar.js"></script>
+    <script src="js/jadwal.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

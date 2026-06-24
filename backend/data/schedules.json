@@ -1,0 +1,4706 @@
+[
+  {
+    "day": "senin",
+    "classId": "X-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "A2",
+        "subject": "PAI"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E1",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "F3",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "A2",
+        "subject": "PAI"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bg1",
+        "subject": "Biologi"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn3",
+        "subject": "Pendidikan Pancasila"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn3",
+        "subject": "Pendidikan Pancasila"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi3",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pn3",
+        "subject": "Pendidikan Pancasila"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pn3",
+        "subject": "Pendidikan Pancasila"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I3",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pw1",
+        "subject": "PKWU"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "X-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "E2",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "A2",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "A2",
+        "subject": "PAI"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "X-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O1",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "G2",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I2",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "I2",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "I2",
+        "subject": "Bahasa Inggris"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "X-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "S2",
+        "subject": "Sosiologi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "X-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "X-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj3",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj3",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F1",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M3",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-1",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K1",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bg2",
+        "subject": "Biologi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F4",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-2",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi1",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "A3",
+        "subject": "PAI"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj1",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-3",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Pw3",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M5",
+        "subject": "Umum"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M5",
+        "subject": "Umum"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-4",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "K3",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj5",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj5",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "M2",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Pw2",
+        "subject": "PKWU"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "I2",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "I2",
+        "subject": "Bahasa Inggris"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-5",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "F2",
+        "subject": "Fisika"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Bi4",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Bi4",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "G3",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-6",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Tl1",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "Sj2",
+        "subject": "Sejarah"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sj3",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sj3",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "S1",
+        "subject": "Sosiologi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Sj5",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Sj5",
+        "subject": "Sejarah"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "BK1",
+        "subject": "Bimbingan Konseling"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-7",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "A3",
+        "subject": "PAI"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      }
+    ]
+  },
+  {
+    "day": "senin",
+    "classId": "XI-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "selasa",
+    "classId": "XI-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "E3",
+        "subject": "Ekonomi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "O2",
+        "subject": "Penjas-Orkes"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "rabu",
+    "classId": "XI-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "K2",
+        "subject": "Kimia"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "Tl2",
+        "subject": "Informatika"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "Pn2",
+        "subject": "PPkn"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      }
+    ]
+  },
+  {
+    "day": "kamis",
+    "classId": "XI-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Sb2",
+        "subject": "Seni Budaya"
+      },
+      {
+        "jamKe": 5,
+        "time": "09.40-10.20",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 6,
+        "time": "10.20-11.00",
+        "teacherId": "M1",
+        "subject": "Matematika"
+      },
+      {
+        "jamKe": 7,
+        "time": "11.00-11.40",
+        "teacherId": "I1",
+        "subject": "Bahasa Inggris"
+      },
+      {
+        "jamKe": 8,
+        "time": "13.05-13.45",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 9,
+        "time": "13.45-14.25",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      },
+      {
+        "jamKe": 10,
+        "time": "14.25-15.05",
+        "teacherId": "G1",
+        "subject": "Geografi"
+      }
+    ]
+  },
+  {
+    "day": "jumat",
+    "classId": "XI-8",
+    "slots": [
+      {
+        "jamKe": 1,
+        "time": "06.30-07.20",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 2,
+        "time": "07.20-08.00",
+        "teacherId": "BK2",
+        "subject": "Bimbingan Konseling"
+      },
+      {
+        "jamKe": 3,
+        "time": "08.00-08.40",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      },
+      {
+        "jamKe": 4,
+        "time": "08.40-09.20",
+        "teacherId": "Bi2",
+        "subject": "Bahasa Indonesia"
+      }
+    ]
+  }
+]

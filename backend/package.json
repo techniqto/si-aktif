@@ -1,0 +1,15 @@
+{
+  "name": "si-aktif-backend",
+  "version": "1.0.0",
+  "description": "Backend API for SI-AKTIF using Express and JSON files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^2.1.1"
+  }
+}
