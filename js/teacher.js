@@ -165,6 +165,7 @@ window.Teacher = {
                     ${students.map(s => `
                         <div class="student-card" data-student-id="${s.id}" data-status="belum" onclick="window.Teacher.cycleStatus(this, false)">
                             <div class="student-info">
+                                <span class="student-absen" style="font-weight:700;color:var(--color-primary);min-width:28px;">${s.noAbsen || ''}.</span>
                                 <span class="student-name">${s.name}</span>
                                 <span class="student-nis">${s.nis}</span>
                             </div>
@@ -297,6 +298,7 @@ window.Teacher = {
         list.innerHTML = students.map(s => `
             <div class="student-card" data-student-id="${s.id}" data-status="belum" onclick="window.Teacher.cycleStatus(this, true)">
                 <div class="student-info">
+                    <span class="student-absen" style="font-weight:700;color:var(--color-primary);min-width:28px;">${s.noAbsen || ''}.</span>
                     <span class="student-name">${s.name}</span>
                     <span class="student-nis">${s.nis}</span>
                 </div>
@@ -440,6 +442,7 @@ window.Teacher = {
                         <table id="table-rekap-harian">
                             <thead>
                                 <tr>
+                                    <th style="width:50px;text-align:center;">No.</th>
                                     <th>Nama Siswa</th>
                                     <th>Hadir</th>
                                     <th>Sakit</th>
@@ -468,6 +471,7 @@ window.Teacher = {
                         <table id="table-rekap-mapel">
                             <thead>
                                 <tr>
+                                    <th style="width:50px;text-align:center;">No.</th>
                                     <th>Nama Siswa</th>
                                     <th>Hadir</th>
                                     <th>Sakit</th>
@@ -536,6 +540,7 @@ window.Teacher = {
 
             return `
                 <tr>
+                    <td style="text-align:center;font-weight:600;">${s.noAbsen || ''}</td>
                     <td><strong>${s.name}</strong><br><small class="text-light">${s.nis}</small></td>
                     <td>${hadir}</td>
                     <td>${sakit}</td>
@@ -585,6 +590,7 @@ window.Teacher = {
 
             return `
                 <tr>
+                    <td style="text-align:center;font-weight:600;">${s.noAbsen || ''}</td>
                     <td><strong>${s.name}</strong><br><small class="text-light">${s.nis}</small></td>
                     <td>${hadir}</td>
                     <td>${sakit}</td>

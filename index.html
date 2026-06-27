@@ -53,6 +53,40 @@
         </div>
     </div>
 
+    <!-- Export Format Selection Modal -->
+    <div id="export-format-modal" class="modal-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.4); backdrop-filter: blur(4px); z-index: 1001; align-items: center; justify-content: center;">
+        <div class="modal-content" style="background: var(--color-surface); padding: 2.25rem; border-radius: var(--border-radius-lg); width: 100%; max-width: 480px; box-shadow: var(--shadow-lg); border: 1px solid var(--color-border);">
+            <div class="d-flex justify-between align-center" style="margin-bottom: 1.5rem;">
+                <h3 class="font-heading" style="margin: 0; font-size: 1.25rem; color: var(--color-navy);">Pilih Format Dokumen</h3>
+                <button onclick="document.getElementById('export-format-modal').style.display='none'" style="background: none; border: none; cursor: pointer; color: var(--color-text-light);"><i data-lucide="x"></i></button>
+            </div>
+            <p style="color: var(--color-text-light); font-size: 0.875rem; margin-bottom: 1.5rem;">Pilih format dokumen untuk mengunduh data absensi saat ini:</p>
+            <div style="display: flex; flex-direction: column; gap: 1rem;">
+                <button id="export-btn-excel" class="btn btn-outline" style="justify-content: flex-start; padding: 1rem; border-radius: 12px; font-weight: 600; gap: 1rem; text-align: left; width: 100%;">
+                    <i data-lucide="file-spreadsheet" style="color: #10b981; width: 24px; height: 24px; flex-shrink: 0;"></i>
+                    <div>
+                        <div style="color: var(--color-navy); font-weight: 700;">Excel Spreadsheet (.xlsx)</div>
+                        <div style="font-size: 0.75rem; font-weight: 400; color: var(--color-text-light);">Format tabel lengkap untuk Microsoft Excel.</div>
+                    </div>
+                </button>
+                <button id="export-btn-word" class="btn btn-outline" style="justify-content: flex-start; padding: 1rem; border-radius: 12px; font-weight: 600; gap: 1rem; text-align: left; width: 100%;">
+                    <i data-lucide="file-text" style="color: #3b82f6; width: 24px; height: 24px; flex-shrink: 0;"></i>
+                    <div>
+                        <div style="color: var(--color-navy); font-weight: 700;">Word Document (.doc)</div>
+                        <div style="font-size: 0.75rem; font-weight: 400; color: var(--color-text-light);">Laporan dokumen tertulis untuk Microsoft Word.</div>
+                    </div>
+                </button>
+                <button id="export-btn-pdf" class="btn btn-outline" style="justify-content: flex-start; padding: 1rem; border-radius: 12px; font-weight: 600; gap: 1rem; text-align: left; width: 100%;">
+                    <i data-lucide="file-down" style="color: #ef4444; width: 24px; height: 24px; flex-shrink: 0;"></i>
+                    <div>
+                        <div style="color: var(--color-navy); font-weight: 700;">PDF Document (.pdf)</div>
+                        <div style="font-size: 0.75rem; font-weight: 400; color: var(--color-text-light);">File siap cetak kualitas tinggi.</div>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- Toast Notification Container -->
     <div id="toast-container"></div>
 
@@ -156,7 +190,7 @@
                             <i data-lucide="search" style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--color-text-lighter);"></i>
                             <input type="text" class="topbar-search" placeholder="Search">
                         </div>
-                        <button class="btn btn-primary" style="border-radius: 999px; padding: 0.5rem 1.25rem; font-size: 0.825rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; border: none;">
+                        <button id="btn-global-export" class="btn btn-primary" style="border-radius: 999px; padding: 0.5rem 1.25rem; font-size: 0.825rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; border: none;">
                             <i data-lucide="download" style="width: 15px; height: 15px;"></i> Export
                         </button>
                     </div>
@@ -231,6 +265,9 @@
 
     </div>
 
+    <!-- SheetJS for Excel Exports -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
     <!-- Scripts -->
     <script src="js/data.js"></script>
     <script src="js/auth.js"></script>

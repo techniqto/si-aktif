@@ -1,5042 +1,5762 @@
 [
   {
-    "id": "S0001",
-    "name": "Budi Rahayu",
-    "nis": "20240001",
+    "id": "S0007",
+    "name": "Ahmad Nugroho",
+    "nis": "20240007",
     "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0002",
-    "name": "Tari Lestari",
-    "nis": "20240002",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0003",
-    "name": "Dian Lestari",
-    "nis": "20240003",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0004",
-    "name": "Citra Saputra",
-    "nis": "20240004",
-    "classId": "X-1",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0005",
-    "name": "Fajar Rahayu",
+    "name": "Ahmad Saputra",
     "nis": "20240005",
     "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0006",
-    "name": "Gita Wijaya",
-    "nis": "20240006",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0007",
-    "name": "Gita Wijaya",
-    "nis": "20240007",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0008",
-    "name": "Budi Rahayu",
-    "nis": "20240008",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0009",
-    "name": "Tari Nugroho",
-    "nis": "20240009",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0010",
-    "name": "Nadia Rahayu",
-    "nis": "20240010",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0011",
-    "name": "Qori Wijaya",
-    "nis": "20240011",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0012",
-    "name": "Qori Saputra",
-    "nis": "20240012",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0013",
-    "name": "Joko Kusuma",
-    "nis": "20240013",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0014",
-    "name": "Gita Rahayu",
-    "nis": "20240014",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0015",
-    "name": "Nadia Nugroho",
-    "nis": "20240015",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0016",
-    "name": "Eka Wijaya",
-    "nis": "20240016",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0017",
-    "name": "Kartika Rahayu",
-    "nis": "20240017",
-    "classId": "X-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0018",
-    "name": "Kartika Saputra",
-    "nis": "20240018",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0019",
-    "name": "Tari Hidayat",
-    "nis": "20240019",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0020",
-    "name": "Dian Saputra",
-    "nis": "20240020",
-    "classId": "X-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
     "id": "S0021",
-    "name": "Reza Kusuma",
+    "name": "Budi Pratama",
     "nis": "20240021",
     "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0022",
-    "name": "Hadi Saputra",
-    "nis": "20240022",
-    "classId": "X-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0023",
-    "name": "Budi Hidayat",
-    "nis": "20240023",
-    "classId": "X-1",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 3
   },
   {
     "id": "S0024",
-    "name": "Kartika Rahayu",
+    "name": "Eka Pratama",
     "nis": "20240024",
     "classId": "X-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 4
   },
   {
     "id": "S0025",
-    "name": "Dian Kusuma",
+    "name": "Fajar Saputra",
     "nis": "20240025",
     "classId": "X-1",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0015",
+    "name": "Gita Kusuma",
+    "nis": "20240015",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0010",
+    "name": "Gita Nugroho",
+    "nis": "20240010",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0013",
+    "name": "Gita Saputra",
+    "nis": "20240013",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0004",
+    "name": "Gita Sari",
+    "nis": "20240004",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0001",
+    "name": "Hadi Gunawan",
+    "nis": "20240001",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0009",
+    "name": "Hadi Nugroho",
+    "nis": "20240009",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0011",
+    "name": "Intan Lestari",
+    "nis": "20240011",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0002",
+    "name": "Joko Saputra",
+    "nis": "20240002",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0017",
+    "name": "Kartika Hidayat",
+    "nis": "20240017",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0020",
+    "name": "Kartika Pratama",
+    "nis": "20240020",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0006",
+    "name": "Lestari Wijaya",
+    "nis": "20240006",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0016",
+    "name": "Muhammad Hidayat",
+    "nis": "20240016",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 17
   },
   {
     "id": "S0026",
-    "name": "Putri Saputra",
+    "name": "Nadia Gunawan",
     "nis": "20240026",
     "classId": "X-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 18
   },
   {
-    "id": "S0027",
-    "name": "Siti Kusuma",
-    "nis": "20240027",
+    "id": "S0023",
+    "name": "Nadia Hidayat",
+    "nis": "20240023",
     "classId": "X-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0022",
+    "name": "Nadia Wijaya",
+    "nis": "20240022",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 20
   },
   {
     "id": "S0028",
-    "name": "Budi Rahayu",
+    "name": "Nadia Wijaya",
     "nis": "20240028",
     "classId": "X-1",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0008",
+    "name": "Oka Nugroho",
+    "nis": "20240008",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0019",
+    "name": "Putri Hidayat",
+    "nis": "20240019",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0014",
+    "name": "Putri Kusuma",
+    "nis": "20240014",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0027",
+    "name": "Putri Pratama",
+    "nis": "20240027",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
     "id": "S0029",
-    "name": "Intan Rahayu",
+    "name": "Qori Saputra",
     "nis": "20240029",
     "classId": "X-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0012",
+    "name": "Reza Hidayat",
+    "nis": "20240012",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0018",
+    "name": "Reza Sari",
+    "nis": "20240018",
+    "classId": "X-1",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
     "id": "S0030",
-    "name": "Joko Hidayat",
+    "name": "Siti Sari",
     "nis": "20240030",
     "classId": "X-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 29
   },
   {
-    "id": "S0031",
-    "name": "Oka Saputra",
-    "nis": "20240031",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0032",
-    "name": "Fajar Sari",
-    "nis": "20240032",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0033",
-    "name": "Dian Rahayu",
-    "nis": "20240033",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0034",
-    "name": "Hadi Lestari",
-    "nis": "20240034",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0035",
-    "name": "Lestari Kusuma",
-    "nis": "20240035",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0036",
-    "name": "Reza Lestari",
-    "nis": "20240036",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0037",
-    "name": "Hadi Hidayat",
-    "nis": "20240037",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0038",
-    "name": "Intan Kusuma",
-    "nis": "20240038",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0039",
-    "name": "Siti Rahayu",
-    "nis": "20240039",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0040",
-    "name": "Dian Nugroho",
-    "nis": "20240040",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0041",
-    "name": "Kartika Hidayat",
-    "nis": "20240041",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0042",
-    "name": "Fajar Wijaya",
-    "nis": "20240042",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0043",
-    "name": "Ahmad Wijaya",
-    "nis": "20240043",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0044",
-    "name": "Qori Saputra",
-    "nis": "20240044",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0045",
-    "name": "Siti Kusuma",
-    "nis": "20240045",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0046",
-    "name": "Intan Lestari",
-    "nis": "20240046",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0047",
-    "name": "Reza Saputra",
-    "nis": "20240047",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0048",
-    "name": "Hadi Gunawan",
-    "nis": "20240048",
-    "classId": "X-2",
-    "gender": "P"
+    "id": "S0003",
+    "name": "Tari Nugroho",
+    "nis": "20240003",
+    "classId": "X-1",
+    "gender": "P",
+    "noAbsen": 30
   },
   {
     "id": "S0049",
-    "name": "Intan Hidayat",
+    "name": "Ahmad Rahayu",
     "nis": "20240049",
     "classId": "X-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
-    "id": "S0050",
-    "name": "Dian Lestari",
-    "nis": "20240050",
+    "id": "S0037",
+    "name": "Ahmad Saputra",
+    "nis": "20240037",
     "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0051",
-    "name": "Ahmad Wijaya",
-    "nis": "20240051",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0052",
-    "name": "Lestari Rahayu",
-    "nis": "20240052",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0053",
-    "name": "Fajar Saputra",
-    "nis": "20240053",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0054",
-    "name": "Citra Gunawan",
-    "nis": "20240054",
-    "classId": "X-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0055",
-    "name": "Oka Lestari",
-    "nis": "20240055",
-    "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0056",
-    "name": "Putri Wijaya",
-    "nis": "20240056",
-    "classId": "X-2",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
     "id": "S0057",
-    "name": "Nadia Sari",
+    "name": "Budi Sari",
     "nis": "20240057",
     "classId": "X-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0058",
-    "name": "Fajar Nugroho",
-    "nis": "20240058",
-    "classId": "X-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
     "id": "S0059",
-    "name": "Eka Nugroho",
+    "name": "Budi Sari",
     "nis": "20240059",
     "classId": "X-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0032",
+    "name": "Citra Hidayat",
+    "nis": "20240032",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0048",
+    "name": "Dian Wijaya",
+    "nis": "20240048",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0041",
+    "name": "Eka Hidayat",
+    "nis": "20240041",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0052",
+    "name": "Fajar Gunawan",
+    "nis": "20240052",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0054",
+    "name": "Fajar Gunawan",
+    "nis": "20240054",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0058",
+    "name": "Gita Nugroho",
+    "nis": "20240058",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0033",
+    "name": "Gita Saputra",
+    "nis": "20240033",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0040",
+    "name": "Hadi Nugroho",
+    "nis": "20240040",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0036",
+    "name": "Hadi Wijaya",
+    "nis": "20240036",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0038",
+    "name": "Intan Hidayat",
+    "nis": "20240038",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0047",
+    "name": "Intan Saputra",
+    "nis": "20240047",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0050",
+    "name": "Joko Lestari",
+    "nis": "20240050",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0042",
+    "name": "Kartika Gunawan",
+    "nis": "20240042",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0039",
+    "name": "Kartika Lestari",
+    "nis": "20240039",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0031",
+    "name": "Kartika Saputra",
+    "nis": "20240031",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0046",
+    "name": "Lestari Nugroho",
+    "nis": "20240046",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0045",
+    "name": "Muhammad Nugroho",
+    "nis": "20240045",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0053",
+    "name": "Muhammad Nugroho",
+    "nis": "20240053",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0051",
+    "name": "Nadia Sari",
+    "nis": "20240051",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0056",
+    "name": "Nadia Wijaya",
+    "nis": "20240056",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0044",
+    "name": "Qori Gunawan",
+    "nis": "20240044",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0034",
+    "name": "Reza Lestari",
+    "nis": "20240034",
+    "classId": "X-2",
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0035",
+    "name": "Reza Sari",
+    "nis": "20240035",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0055",
+    "name": "Siti Saputra",
+    "nis": "20240055",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
     "id": "S0060",
-    "name": "Fajar Lestari",
+    "name": "Tari Kusuma",
     "nis": "20240060",
     "classId": "X-2",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0043",
+    "name": "Tari Rahayu",
+    "nis": "20240043",
+    "classId": "X-2",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0061",
-    "name": "Joko Rahayu",
+    "name": "Budi Saputra",
     "nis": "20240061",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
     "id": "S0062",
-    "name": "Kartika Kusuma",
+    "name": "Budi Wijaya",
     "nis": "20240062",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0085",
+    "name": "Citra Pratama",
+    "nis": "20240085",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0083",
+    "name": "Dian Gunawan",
+    "nis": "20240083",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 4
   },
   {
     "id": "S0063",
-    "name": "Fajar Hidayat",
+    "name": "Fajar Wijaya",
     "nis": "20240063",
     "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0064",
-    "name": "Hadi Pratama",
-    "nis": "20240064",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0065",
-    "name": "Ahmad Lestari",
-    "nis": "20240065",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0066",
-    "name": "Lestari Rahayu",
-    "nis": "20240066",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0067",
-    "name": "Muhammad Sari",
-    "nis": "20240067",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0068",
-    "name": "Qori Gunawan",
-    "nis": "20240068",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0069",
-    "name": "Oka Lestari",
-    "nis": "20240069",
-    "classId": "X-3",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 5
   },
   {
     "id": "S0070",
-    "name": "Lestari Hidayat",
+    "name": "Gita Gunawan",
     "nis": "20240070",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 6
   },
   {
-    "id": "S0071",
-    "name": "Siti Sari",
-    "nis": "20240071",
+    "id": "S0066",
+    "name": "Hadi Hidayat",
+    "nis": "20240066",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0067",
+    "name": "Hadi Lestari",
+    "nis": "20240067",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0065",
+    "name": "Intan Gunawan",
+    "nis": "20240065",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
     "id": "S0072",
-    "name": "Hadi Kusuma",
+    "name": "Intan Hidayat",
     "nis": "20240072",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 10
   },
   {
-    "id": "S0073",
-    "name": "Siti Rahayu",
-    "nis": "20240073",
+    "id": "S0071",
+    "name": "Intan Rahayu",
+    "nis": "20240071",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0074",
-    "name": "Budi Hidayat",
-    "nis": "20240074",
+    "id": "S0064",
+    "name": "Joko Gunawan",
+    "nis": "20240064",
     "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0075",
-    "name": "Oka Hidayat",
-    "nis": "20240075",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0076",
-    "name": "Siti Wijaya",
-    "nis": "20240076",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0077",
-    "name": "Nadia Rahayu",
-    "nis": "20240077",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0078",
-    "name": "Eka Nugroho",
-    "nis": "20240078",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0079",
-    "name": "Muhammad Hidayat",
-    "nis": "20240079",
-    "classId": "X-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 12
   },
   {
     "id": "S0080",
     "name": "Joko Saputra",
     "nis": "20240080",
     "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0081",
-    "name": "Reza Saputra",
-    "nis": "20240081",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0082",
-    "name": "Joko Hidayat",
-    "nis": "20240082",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0083",
-    "name": "Lestari Gunawan",
-    "nis": "20240083",
-    "classId": "X-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 13
   },
   {
     "id": "S0084",
-    "name": "Intan Nugroho",
+    "name": "Joko Saputra",
     "nis": "20240084",
     "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0085",
-    "name": "Qori Lestari",
-    "nis": "20240085",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0086",
-    "name": "Muhammad Saputra",
-    "nis": "20240086",
-    "classId": "X-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0087",
-    "name": "Eka Kusuma",
-    "nis": "20240087",
-    "classId": "X-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0088",
-    "name": "Eka Wijaya",
-    "nis": "20240088",
-    "classId": "X-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 14
   },
   {
     "id": "S0089",
-    "name": "Reza Gunawan",
+    "name": "Kartika Hidayat",
     "nis": "20240089",
     "classId": "X-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0073",
+    "name": "Kartika Pratama",
+    "nis": "20240073",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0088",
+    "name": "Kartika Pratama",
+    "nis": "20240088",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0075",
+    "name": "Lestari Lestari",
+    "nis": "20240075",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 18
   },
   {
     "id": "S0090",
-    "name": "Eka Pratama",
+    "name": "Muhammad Kusuma",
     "nis": "20240090",
     "classId": "X-3",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0091",
-    "name": "Oka Rahayu",
-    "nis": "20240091",
-    "classId": "X-4",
-    "gender": "P"
+    "id": "S0074",
+    "name": "Muhammad Sari",
+    "nis": "20240074",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 20
   },
   {
-    "id": "S0092",
-    "name": "Gita Hidayat",
-    "nis": "20240092",
-    "classId": "X-4",
-    "gender": "P"
+    "id": "S0078",
+    "name": "Nadia Lestari",
+    "nis": "20240078",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 21
   },
   {
-    "id": "S0093",
-    "name": "Gita Sari",
-    "nis": "20240093",
-    "classId": "X-4",
-    "gender": "L"
+    "id": "S0079",
+    "name": "Nadia Saputra",
+    "nis": "20240079",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 22
   },
   {
-    "id": "S0094",
-    "name": "Nadia Hidayat",
-    "nis": "20240094",
-    "classId": "X-4",
-    "gender": "L"
+    "id": "S0082",
+    "name": "Nadia Saputra",
+    "nis": "20240082",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 23
   },
   {
-    "id": "S0095",
-    "name": "Oka Kusuma",
-    "nis": "20240095",
-    "classId": "X-4",
-    "gender": "P"
+    "id": "S0086",
+    "name": "Nadia Sari",
+    "nis": "20240086",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 24
   },
   {
-    "id": "S0096",
-    "name": "Gita Wijaya",
-    "nis": "20240096",
-    "classId": "X-4",
-    "gender": "L"
+    "id": "S0077",
+    "name": "Oka Wijaya",
+    "nis": "20240077",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0097",
-    "name": "Reza Kusuma",
-    "nis": "20240097",
-    "classId": "X-4",
-    "gender": "L"
+    "id": "S0087",
+    "name": "Putri Lestari",
+    "nis": "20240087",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0098",
-    "name": "Nadia Rahayu",
-    "nis": "20240098",
-    "classId": "X-4",
-    "gender": "P"
+    "id": "S0069",
+    "name": "Qori Pratama",
+    "nis": "20240069",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 27
   },
   {
-    "id": "S0099",
-    "name": "Lestari Hidayat",
-    "nis": "20240099",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0100",
-    "name": "Oka Sari",
-    "nis": "20240100",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0101",
+    "id": "S0076",
     "name": "Reza Rahayu",
-    "nis": "20240101",
-    "classId": "X-4",
-    "gender": "L"
+    "nis": "20240076",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0102",
-    "name": "Hadi Wijaya",
-    "nis": "20240102",
-    "classId": "X-4",
-    "gender": "L"
+    "id": "S0068",
+    "name": "Tari Gunawan",
+    "nis": "20240068",
+    "classId": "X-3",
+    "gender": "L",
+    "noAbsen": 29
   },
   {
-    "id": "S0103",
-    "name": "Muhammad Rahayu",
-    "nis": "20240103",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0104",
-    "name": "Gita Hidayat",
-    "nis": "20240104",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0105",
-    "name": "Intan Hidayat",
-    "nis": "20240105",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0106",
-    "name": "Citra Kusuma",
-    "nis": "20240106",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0107",
-    "name": "Reza Gunawan",
-    "nis": "20240107",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0108",
-    "name": "Intan Saputra",
-    "nis": "20240108",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0109",
-    "name": "Eka Pratama",
-    "nis": "20240109",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0110",
-    "name": "Dian Lestari",
-    "nis": "20240110",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0111",
-    "name": "Fajar Kusuma",
-    "nis": "20240111",
-    "classId": "X-4",
-    "gender": "P"
+    "id": "S0081",
+    "name": "Tari Sari",
+    "nis": "20240081",
+    "classId": "X-3",
+    "gender": "P",
+    "noAbsen": 30
   },
   {
     "id": "S0112",
-    "name": "Muhammad Kusuma",
+    "name": "Budi Hidayat",
     "nis": "20240112",
     "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0113",
-    "name": "Qori Kusuma",
-    "nis": "20240113",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0114",
-    "name": "Tari Kusuma",
-    "nis": "20240114",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0115",
-    "name": "Qori Nugroho",
-    "nis": "20240115",
-    "classId": "X-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0116",
-    "name": "Fajar Rahayu",
-    "nis": "20240116",
-    "classId": "X-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0117",
-    "name": "Citra Nugroho",
-    "nis": "20240117",
-    "classId": "X-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0118",
-    "name": "Joko Wijaya",
+    "name": "Budi Lestari",
     "nis": "20240118",
     "classId": "X-4",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
-    "id": "S0119",
-    "name": "Siti Kusuma",
-    "nis": "20240119",
+    "id": "S0110",
+    "name": "Budi Pratama",
+    "nis": "20240110",
     "classId": "X-4",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0095",
+    "name": "Budi Sari",
+    "nis": "20240095",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0096",
+    "name": "Citra Wijaya",
+    "nis": "20240096",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0097",
+    "name": "Citra Wijaya",
+    "nis": "20240097",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0109",
+    "name": "Eka Lestari",
+    "nis": "20240109",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0107",
+    "name": "Eka Sari",
+    "nis": "20240107",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0105",
+    "name": "Fajar Pratama",
+    "nis": "20240105",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0108",
+    "name": "Gita Gunawan",
+    "nis": "20240108",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0113",
+    "name": "Gita Kusuma",
+    "nis": "20240113",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0114",
+    "name": "Gita Pratama",
+    "nis": "20240114",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0091",
+    "name": "Gita Saputra",
+    "nis": "20240091",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0100",
+    "name": "Hadi Saputra",
+    "nis": "20240100",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0099",
+    "name": "Joko Nugroho",
+    "nis": "20240099",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 15
   },
   {
     "id": "S0120",
-    "name": "Citra Saputra",
+    "name": "Joko Sari",
     "nis": "20240120",
     "classId": "X-4",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0106",
+    "name": "Kartika Sari",
+    "nis": "20240106",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0093",
+    "name": "Lestari Lestari",
+    "nis": "20240093",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0094",
+    "name": "Muhammad Lestari",
+    "nis": "20240094",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0119",
+    "name": "Oka Gunawan",
+    "nis": "20240119",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0117",
+    "name": "Oka Rahayu",
+    "nis": "20240117",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0116",
+    "name": "Putri Nugroho",
+    "nis": "20240116",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0102",
+    "name": "Putri Rahayu",
+    "nis": "20240102",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0103",
+    "name": "Putri Sari",
+    "nis": "20240103",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0115",
+    "name": "Qori Pratama",
+    "nis": "20240115",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0104",
+    "name": "Qori Rahayu",
+    "nis": "20240104",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0092",
+    "name": "Siti Gunawan",
+    "nis": "20240092",
+    "classId": "X-4",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0101",
+    "name": "Siti Wijaya",
+    "nis": "20240101",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0111",
+    "name": "Tari Gunawan",
+    "nis": "20240111",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0098",
+    "name": "Tari Kusuma",
+    "nis": "20240098",
+    "classId": "X-4",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0121",
-    "name": "Intan Nugroho",
+    "name": "Budi Gunawan",
     "nis": "20240121",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0149",
+    "name": "Budi Kusuma",
+    "nis": "20240149",
+    "classId": "X-5",
+    "gender": "L",
+    "noAbsen": 2
   },
   {
     "id": "S0122",
-    "name": "Intan Kusuma",
+    "name": "Budi Rahayu",
     "nis": "20240122",
     "classId": "X-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0123",
-    "name": "Tari Hidayat",
-    "nis": "20240123",
-    "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 3
   },
   {
     "id": "S0124",
-    "name": "Oka Hidayat",
+    "name": "Citra Hidayat",
     "nis": "20240124",
     "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
-    "id": "S0125",
-    "name": "Dian Sari",
-    "nis": "20240125",
+    "id": "S0139",
+    "name": "Citra Kusuma",
+    "nis": "20240139",
     "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0126",
-    "name": "Lestari Rahayu",
-    "nis": "20240126",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0127",
-    "name": "Tari Kusuma",
-    "nis": "20240127",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0128",
-    "name": "Oka Lestari",
-    "nis": "20240128",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0129",
-    "name": "Putri Pratama",
-    "nis": "20240129",
-    "classId": "X-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0130",
-    "name": "Hadi Wijaya",
-    "nis": "20240130",
-    "classId": "X-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0131",
-    "name": "Lestari Nugroho",
-    "nis": "20240131",
-    "classId": "X-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0132",
-    "name": "Reza Nugroho",
-    "nis": "20240132",
-    "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 5
   },
   {
     "id": "S0133",
-    "name": "Putri Saputra",
+    "name": "Citra Pratama",
     "nis": "20240133",
     "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 6
   },
   {
-    "id": "S0134",
-    "name": "Lestari Saputra",
-    "nis": "20240134",
+    "id": "S0129",
+    "name": "Citra Saputra",
+    "nis": "20240129",
     "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0123",
+    "name": "Citra Sari",
+    "nis": "20240123",
+    "classId": "X-5",
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0125",
+    "name": "Dian Hidayat",
+    "nis": "20240125",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0147",
+    "name": "Dian Nugroho",
+    "nis": "20240147",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 10
   },
   {
     "id": "S0135",
-    "name": "Joko Saputra",
+    "name": "Dian Sari",
     "nis": "20240135",
     "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0136",
-    "name": "Putri Saputra",
-    "nis": "20240136",
+    "id": "S0127",
+    "name": "Eka Hidayat",
+    "nis": "20240127",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0132",
+    "name": "Eka Kusuma",
+    "nis": "20240132",
+    "classId": "X-5",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0142",
+    "name": "Eka Sari",
+    "nis": "20240142",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0143",
+    "name": "Fajar Kusuma",
+    "nis": "20240143",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0126",
+    "name": "Gita Pratama",
+    "nis": "20240126",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0141",
+    "name": "Gita Sari",
+    "nis": "20240141",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
     "id": "S0137",
-    "name": "Tari Hidayat",
+    "name": "Joko Kusuma",
     "nis": "20240137",
     "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0128",
+    "name": "Kartika Hidayat",
+    "nis": "20240128",
+    "classId": "X-5",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0146",
+    "name": "Kartika Hidayat",
+    "nis": "20240146",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 20
   },
   {
     "id": "S0138",
     "name": "Kartika Saputra",
     "nis": "20240138",
     "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0139",
-    "name": "Kartika Pratama",
-    "nis": "20240139",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0140",
-    "name": "Ahmad Hidayat",
-    "nis": "20240140",
-    "classId": "X-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0141",
-    "name": "Fajar Sari",
-    "nis": "20240141",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0142",
-    "name": "Qori Rahayu",
-    "nis": "20240142",
-    "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0143",
-    "name": "Gita Rahayu",
-    "nis": "20240143",
-    "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 21
   },
   {
     "id": "S0144",
-    "name": "Hadi Rahayu",
+    "name": "Lestari Pratama",
     "nis": "20240144",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0134",
+    "name": "Muhammad Kusuma",
+    "nis": "20240134",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0131",
+    "name": "Qori Gunawan",
+    "nis": "20240131",
+    "classId": "X-5",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0130",
+    "name": "Reza Pratama",
+    "nis": "20240130",
+    "classId": "X-5",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
     "id": "S0145",
-    "name": "Tari Wijaya",
+    "name": "Siti Pratama",
     "nis": "20240145",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0146",
-    "name": "Fajar Lestari",
-    "nis": "20240146",
+    "id": "S0136",
+    "name": "Siti Rahayu",
+    "nis": "20240136",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 27
   },
   {
-    "id": "S0147",
-    "name": "Kartika Wijaya",
-    "nis": "20240147",
+    "id": "S0140",
+    "name": "Tari Gunawan",
+    "nis": "20240140",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 28
   },
   {
     "id": "S0148",
-    "name": "Qori Rahayu",
+    "name": "Tari Saputra",
     "nis": "20240148",
     "classId": "X-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0149",
-    "name": "Putri Wijaya",
-    "nis": "20240149",
-    "classId": "X-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 29
   },
   {
     "id": "S0150",
-    "name": "Gita Rahayu",
+    "name": "Tari Sari",
     "nis": "20240150",
     "classId": "X-5",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 30
+  },
+  {
+    "id": "S0180",
+    "name": "Ahmad Sari",
+    "nis": "20240180",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0178",
+    "name": "Ahmad Wijaya",
+    "nis": "20240178",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 2
   },
   {
     "id": "S0151",
-    "name": "Qori Sari",
+    "name": "Budi Kusuma",
     "nis": "20240151",
     "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0152",
-    "name": "Putri Sari",
-    "nis": "20240152",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0153",
-    "name": "Reza Saputra",
-    "nis": "20240153",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0154",
-    "name": "Joko Pratama",
-    "nis": "20240154",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0155",
-    "name": "Muhammad Saputra",
-    "nis": "20240155",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0156",
-    "name": "Nadia Hidayat",
-    "nis": "20240156",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0157",
-    "name": "Lestari Gunawan",
-    "nis": "20240157",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0158",
-    "name": "Lestari Kusuma",
-    "nis": "20240158",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0159",
-    "name": "Gita Kusuma",
-    "nis": "20240159",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0160",
-    "name": "Muhammad Kusuma",
-    "nis": "20240160",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0161",
-    "name": "Muhammad Nugroho",
-    "nis": "20240161",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0162",
-    "name": "Ahmad Sari",
-    "nis": "20240162",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0163",
-    "name": "Hadi Nugroho",
-    "nis": "20240163",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0164",
-    "name": "Eka Gunawan",
-    "nis": "20240164",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0165",
-    "name": "Siti Hidayat",
-    "nis": "20240165",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0166",
-    "name": "Eka Pratama",
-    "nis": "20240166",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0167",
-    "name": "Lestari Nugroho",
-    "nis": "20240167",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0168",
-    "name": "Fajar Lestari",
-    "nis": "20240168",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0169",
-    "name": "Siti Rahayu",
-    "nis": "20240169",
-    "classId": "X-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0170",
-    "name": "Fajar Wijaya",
-    "nis": "20240170",
-    "classId": "X-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0171",
-    "name": "Putri Hidayat",
-    "nis": "20240171",
-    "classId": "X-6",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
     "id": "S0172",
-    "name": "Joko Gunawan",
+    "name": "Budi Nugroho",
     "nis": "20240172",
     "classId": "X-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
-    "id": "S0173",
-    "name": "Lestari Pratama",
-    "nis": "20240173",
+    "id": "S0160",
+    "name": "Budi Wijaya",
+    "nis": "20240160",
     "classId": "X-6",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 5
   },
   {
-    "id": "S0174",
-    "name": "Dian Pratama",
-    "nis": "20240174",
+    "id": "S0157",
+    "name": "Dian Hidayat",
+    "nis": "20240157",
     "classId": "X-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 6
   },
   {
-    "id": "S0175",
-    "name": "Nadia Rahayu",
-    "nis": "20240175",
+    "id": "S0163",
+    "name": "Dian Hidayat",
+    "nis": "20240163",
     "classId": "X-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0171",
+    "name": "Dian Hidayat",
+    "nis": "20240171",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0168",
+    "name": "Dian Lestari",
+    "nis": "20240168",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0162",
+    "name": "Eka Gunawan",
+    "nis": "20240162",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 10
   },
   {
     "id": "S0176",
     "name": "Gita Lestari",
     "nis": "20240176",
     "classId": "X-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 11
   },
   {
     "id": "S0177",
-    "name": "Lestari Hidayat",
+    "name": "Kartika Kusuma",
     "nis": "20240177",
     "classId": "X-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 12
   },
   {
-    "id": "S0178",
-    "name": "Intan Wijaya",
-    "nis": "20240178",
+    "id": "S0161",
+    "name": "Lestari Gunawan",
+    "nis": "20240161",
     "classId": "X-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0165",
+    "name": "Muhammad Hidayat",
+    "nis": "20240165",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0153",
+    "name": "Nadia Kusuma",
+    "nis": "20240153",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0155",
+    "name": "Nadia Rahayu",
+    "nis": "20240155",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
     "id": "S0179",
-    "name": "Siti Gunawan",
+    "name": "Oka Hidayat",
     "nis": "20240179",
     "classId": "X-6",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0180",
-    "name": "Reza Gunawan",
-    "nis": "20240180",
+    "id": "S0154",
+    "name": "Oka Rahayu",
+    "nis": "20240154",
     "classId": "X-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 18
   },
   {
-    "id": "S0181",
-    "name": "Fajar Gunawan",
-    "nis": "20240181",
-    "classId": "X-7",
-    "gender": "P"
+    "id": "S0169",
+    "name": "Putri Gunawan",
+    "nis": "20240169",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0182",
-    "name": "Tari Gunawan",
-    "nis": "20240182",
-    "classId": "X-7",
-    "gender": "P"
+    "id": "S0175",
+    "name": "Putri Gunawan",
+    "nis": "20240175",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 20
   },
   {
-    "id": "S0183",
-    "name": "Reza Rahayu",
-    "nis": "20240183",
-    "classId": "X-7",
-    "gender": "L"
+    "id": "S0167",
+    "name": "Putri Hidayat",
+    "nis": "20240167",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 21
   },
   {
-    "id": "S0184",
+    "id": "S0156",
+    "name": "Qori Rahayu",
+    "nis": "20240156",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0152",
+    "name": "Qori Saputra",
+    "nis": "20240152",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0173",
+    "name": "Qori Wijaya",
+    "nis": "20240173",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0170",
+    "name": "Reza Sari",
+    "nis": "20240170",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0158",
+    "name": "Siti Hidayat",
+    "nis": "20240158",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0159",
+    "name": "Siti Hidayat",
+    "nis": "20240159",
+    "classId": "X-6",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0164",
+    "name": "Siti Saputra",
+    "nis": "20240164",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0174",
+    "name": "Siti Saputra",
+    "nis": "20240174",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0166",
     "name": "Tari Saputra",
-    "nis": "20240184",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0185",
-    "name": "Dian Kusuma",
-    "nis": "20240185",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0186",
-    "name": "Eka Saputra",
-    "nis": "20240186",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0187",
-    "name": "Eka Saputra",
-    "nis": "20240187",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0188",
-    "name": "Intan Kusuma",
-    "nis": "20240188",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0189",
-    "name": "Oka Nugroho",
-    "nis": "20240189",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0190",
-    "name": "Ahmad Nugroho",
-    "nis": "20240190",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0191",
-    "name": "Lestari Gunawan",
-    "nis": "20240191",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0192",
-    "name": "Ahmad Nugroho",
-    "nis": "20240192",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0193",
-    "name": "Citra Rahayu",
-    "nis": "20240193",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0194",
-    "name": "Oka Hidayat",
-    "nis": "20240194",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0195",
-    "name": "Intan Pratama",
-    "nis": "20240195",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0196",
-    "name": "Intan Nugroho",
-    "nis": "20240196",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0197",
-    "name": "Budi Rahayu",
-    "nis": "20240197",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0198",
-    "name": "Lestari Gunawan",
-    "nis": "20240198",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0199",
-    "name": "Fajar Nugroho",
-    "nis": "20240199",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0200",
-    "name": "Siti Nugroho",
-    "nis": "20240200",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0201",
-    "name": "Nadia Nugroho",
-    "nis": "20240201",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0202",
-    "name": "Oka Pratama",
-    "nis": "20240202",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0203",
-    "name": "Ahmad Rahayu",
-    "nis": "20240203",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0204",
-    "name": "Qori Lestari",
-    "nis": "20240204",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0205",
-    "name": "Budi Kusuma",
-    "nis": "20240205",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0206",
-    "name": "Eka Wijaya",
-    "nis": "20240206",
-    "classId": "X-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0207",
-    "name": "Gita Pratama",
-    "nis": "20240207",
-    "classId": "X-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0208",
-    "name": "Kartika Wijaya",
-    "nis": "20240208",
-    "classId": "X-7",
-    "gender": "L"
+    "nis": "20240166",
+    "classId": "X-6",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0209",
-    "name": "Tari Rahayu",
+    "name": "Ahmad Hidayat",
     "nis": "20240209",
     "classId": "X-7",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0202",
+    "name": "Ahmad Lestari",
+    "nis": "20240202",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0185",
+    "name": "Ahmad Nugroho",
+    "nis": "20240185",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0189",
+    "name": "Citra Hidayat",
+    "nis": "20240189",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0204",
+    "name": "Citra Lestari",
+    "nis": "20240204",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0207",
+    "name": "Dian Nugroho",
+    "nis": "20240207",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0200",
+    "name": "Eka Nugroho",
+    "nis": "20240200",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0201",
+    "name": "Eka Sari",
+    "nis": "20240201",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0187",
+    "name": "Fajar Kusuma",
+    "nis": "20240187",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0183",
+    "name": "Fajar Saputra",
+    "nis": "20240183",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0194",
+    "name": "Hadi Saputra",
+    "nis": "20240194",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0195",
+    "name": "Hadi Sari",
+    "nis": "20240195",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0192",
+    "name": "Hadi Wijaya",
+    "nis": "20240192",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0184",
+    "name": "Intan Gunawan",
+    "nis": "20240184",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 14
   },
   {
     "id": "S0210",
-    "name": "Ahmad Lestari",
+    "name": "Joko Gunawan",
     "nis": "20240210",
     "classId": "X-7",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0211",
-    "name": "Hadi Gunawan",
-    "nis": "20240211",
-    "classId": "X-8",
-    "gender": "P"
+    "id": "S0186",
+    "name": "Joko Rahayu",
+    "nis": "20240186",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0212",
-    "name": "Qori Saputra",
-    "nis": "20240212",
-    "classId": "X-8",
-    "gender": "L"
+    "id": "S0198",
+    "name": "Lestari Hidayat",
+    "nis": "20240198",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 17
   },
   {
-    "id": "S0213",
-    "name": "Eka Wijaya",
-    "nis": "20240213",
-    "classId": "X-8",
-    "gender": "L"
+    "id": "S0197",
+    "name": "Muhammad Lestari",
+    "nis": "20240197",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 18
   },
   {
-    "id": "S0214",
-    "name": "Joko Sari",
-    "nis": "20240214",
-    "classId": "X-8",
-    "gender": "L"
+    "id": "S0196",
+    "name": "Muhammad Sari",
+    "nis": "20240196",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 19
   },
   {
-    "id": "S0215",
-    "name": "Reza Kusuma",
-    "nis": "20240215",
-    "classId": "X-8",
-    "gender": "P"
+    "id": "S0190",
+    "name": "Muhammad Wijaya",
+    "nis": "20240190",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 20
   },
   {
-    "id": "S0216",
-    "name": "Nadia Nugroho",
-    "nis": "20240216",
-    "classId": "X-8",
-    "gender": "L"
+    "id": "S0193",
+    "name": "Muhammad Wijaya",
+    "nis": "20240193",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 21
   },
   {
-    "id": "S0217",
-    "name": "Nadia Saputra",
-    "nis": "20240217",
-    "classId": "X-8",
-    "gender": "P"
+    "id": "S0182",
+    "name": "Nadia Gunawan",
+    "nis": "20240182",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 22
   },
   {
-    "id": "S0218",
-    "name": "Budi Lestari",
-    "nis": "20240218",
-    "classId": "X-8",
-    "gender": "P"
+    "id": "S0208",
+    "name": "Nadia Kusuma",
+    "nis": "20240208",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 23
   },
   {
-    "id": "S0219",
-    "name": "Hadi Saputra",
-    "nis": "20240219",
-    "classId": "X-8",
-    "gender": "L"
+    "id": "S0205",
+    "name": "Nadia Rahayu",
+    "nis": "20240205",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 24
   },
   {
-    "id": "S0220",
-    "name": "Fajar Sari",
-    "nis": "20240220",
-    "classId": "X-8",
-    "gender": "P"
+    "id": "S0191",
+    "name": "Oka Hidayat",
+    "nis": "20240191",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0199",
+    "name": "Oka Hidayat",
+    "nis": "20240199",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0188",
+    "name": "Putri Kusuma",
+    "nis": "20240188",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0203",
+    "name": "Siti Gunawan",
+    "nis": "20240203",
+    "classId": "X-7",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0206",
+    "name": "Siti Lestari",
+    "nis": "20240206",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0181",
+    "name": "Tari Pratama",
+    "nis": "20240181",
+    "classId": "X-7",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0221",
-    "name": "Citra Nugroho",
+    "name": "Ahmad Gunawan",
     "nis": "20240221",
     "classId": "X-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
-    "id": "S0222",
+    "id": "S0216",
     "name": "Ahmad Pratama",
-    "nis": "20240222",
+    "nis": "20240216",
     "classId": "X-8",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
-    "id": "S0223",
-    "name": "Kartika Wijaya",
-    "nis": "20240223",
+    "id": "S0217",
+    "name": "Ahmad Rahayu",
+    "nis": "20240217",
     "classId": "X-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0215",
+    "name": "Ahmad Saputra",
+    "nis": "20240215",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 4
   },
   {
     "id": "S0224",
-    "name": "Tari Nugroho",
+    "name": "Ahmad Sari",
     "nis": "20240224",
     "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0225",
-    "name": "Tari Sari",
-    "nis": "20240225",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0226",
-    "name": "Lestari Nugroho",
-    "nis": "20240226",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0227",
-    "name": "Muhammad Pratama",
-    "nis": "20240227",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0228",
-    "name": "Joko Pratama",
-    "nis": "20240228",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0229",
-    "name": "Putri Gunawan",
-    "nis": "20240229",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0230",
-    "name": "Ahmad Pratama",
-    "nis": "20240230",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0231",
-    "name": "Citra Gunawan",
-    "nis": "20240231",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0232",
-    "name": "Qori Kusuma",
-    "nis": "20240232",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0233",
-    "name": "Joko Hidayat",
-    "nis": "20240233",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0234",
-    "name": "Hadi Sari",
-    "nis": "20240234",
-    "classId": "X-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0235",
-    "name": "Hadi Hidayat",
-    "nis": "20240235",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0236",
-    "name": "Budi Rahayu",
-    "nis": "20240236",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0237",
-    "name": "Intan Rahayu",
-    "nis": "20240237",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0238",
-    "name": "Budi Sari",
-    "nis": "20240238",
-    "classId": "X-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0239",
-    "name": "Gita Rahayu",
-    "nis": "20240239",
-    "classId": "X-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 5
   },
   {
     "id": "S0240",
-    "name": "Intan Saputra",
+    "name": "Citra Sari",
     "nis": "20240240",
     "classId": "X-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 6
   },
   {
-    "id": "S0241",
-    "name": "Nadia Pratama",
-    "nis": "20240241",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0213",
+    "name": "Dian Lestari",
+    "nis": "20240213",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 7
   },
   {
-    "id": "S0242",
-    "name": "Kartika Pratama",
-    "nis": "20240242",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0239",
+    "name": "Dian Lestari",
+    "nis": "20240239",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0243",
-    "name": "Dian Saputra",
-    "nis": "20240243",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0220",
+    "name": "Eka Pratama",
+    "nis": "20240220",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0244",
-    "name": "Ahmad Sari",
-    "nis": "20240244",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0222",
+    "name": "Eka Saputra",
+    "nis": "20240222",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 10
   },
   {
-    "id": "S0245",
-    "name": "Joko Rahayu",
-    "nis": "20240245",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0214",
+    "name": "Fajar Kusuma",
+    "nis": "20240214",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 11
   },
   {
-    "id": "S0246",
-    "name": "Lestari Wijaya",
-    "nis": "20240246",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0232",
+    "name": "Fajar Sari",
+    "nis": "20240232",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 12
   },
   {
-    "id": "S0247",
-    "name": "Nadia Kusuma",
-    "nis": "20240247",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0230",
+    "name": "Gita Nugroho",
+    "nis": "20240230",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0248",
-    "name": "Joko Pratama",
-    "nis": "20240248",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0223",
+    "name": "Gita Rahayu",
+    "nis": "20240223",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 14
   },
   {
-    "id": "S0249",
-    "name": "Intan Rahayu",
-    "nis": "20240249",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0225",
+    "name": "Gita Rahayu",
+    "nis": "20240225",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0250",
+    "id": "S0234",
     "name": "Gita Wijaya",
-    "nis": "20240250",
-    "classId": "XI-1",
-    "gender": "L"
+    "nis": "20240234",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0251",
+    "id": "S0228",
+    "name": "Intan Saputra",
+    "nis": "20240228",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0227",
+    "name": "Joko Kusuma",
+    "nis": "20240227",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0236",
+    "name": "Joko Pratama",
+    "nis": "20240236",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0211",
+    "name": "Joko Wijaya",
+    "nis": "20240211",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0219",
+    "name": "Kartika Rahayu",
+    "nis": "20240219",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0231",
+    "name": "Kartika Sari",
+    "nis": "20240231",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0218",
+    "name": "Kartika Wijaya",
+    "nis": "20240218",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0226",
+    "name": "Lestari Pratama",
+    "nis": "20240226",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0235",
     "name": "Oka Hidayat",
-    "nis": "20240251",
-    "classId": "XI-1",
-    "gender": "P"
+    "nis": "20240235",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0252",
-    "name": "Intan Rahayu",
-    "nis": "20240252",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0253",
-    "name": "Qori Saputra",
-    "nis": "20240253",
-    "classId": "XI-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0254",
-    "name": "Lestari Nugroho",
-    "nis": "20240254",
-    "classId": "XI-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0255",
-    "name": "Dian Nugroho",
-    "nis": "20240255",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0256",
-    "name": "Joko Sari",
-    "nis": "20240256",
-    "classId": "XI-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0257",
-    "name": "Qori Lestari",
-    "nis": "20240257",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0258",
-    "name": "Intan Gunawan",
-    "nis": "20240258",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0259",
-    "name": "Gita Gunawan",
-    "nis": "20240259",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0260",
-    "name": "Putri Nugroho",
-    "nis": "20240260",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0261",
-    "name": "Ahmad Lestari",
-    "nis": "20240261",
-    "classId": "XI-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0262",
+    "id": "S0237",
     "name": "Oka Rahayu",
-    "nis": "20240262",
-    "classId": "XI-1",
-    "gender": "L"
+    "nis": "20240237",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0263",
-    "name": "Hadi Rahayu",
-    "nis": "20240263",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0229",
+    "name": "Oka Sari",
+    "nis": "20240229",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 27
   },
   {
-    "id": "S0264",
-    "name": "Dian Saputra",
-    "nis": "20240264",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0233",
+    "name": "Putri Saputra",
+    "nis": "20240233",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0265",
-    "name": "Siti Pratama",
-    "nis": "20240265",
-    "classId": "XI-1",
-    "gender": "L"
+    "id": "S0212",
+    "name": "Reza Pratama",
+    "nis": "20240212",
+    "classId": "X-8",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
-    "id": "S0266",
-    "name": "Eka Sari",
-    "nis": "20240266",
-    "classId": "XI-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0267",
-    "name": "Budi Saputra",
-    "nis": "20240267",
-    "classId": "XI-1",
-    "gender": "P"
+    "id": "S0238",
+    "name": "Reza Pratama",
+    "nis": "20240238",
+    "classId": "X-8",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0268",
-    "name": "Siti Kusuma",
+    "name": "Ahmad Gunawan",
     "nis": "20240268",
     "classId": "XI-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0248",
+    "name": "Budi Lestari",
+    "nis": "20240248",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0257",
+    "name": "Budi Wijaya",
+    "nis": "20240257",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0264",
+    "name": "Eka Nugroho",
+    "nis": "20240264",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 4
   },
   {
     "id": "S0269",
-    "name": "Eka Nugroho",
+    "name": "Eka Sari",
     "nis": "20240269",
     "classId": "XI-1",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0266",
+    "name": "Fajar Gunawan",
+    "nis": "20240266",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0244",
+    "name": "Gita Kusuma",
+    "nis": "20240244",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0247",
+    "name": "Gita Nugroho",
+    "nis": "20240247",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0262",
+    "name": "Gita Rahayu",
+    "nis": "20240262",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
     "id": "S0270",
-    "name": "Gita Pratama",
+    "name": "Hadi Hidayat",
     "nis": "20240270",
     "classId": "XI-1",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 10
   },
   {
-    "id": "S0271",
-    "name": "Budi Pratama",
-    "nis": "20240271",
-    "classId": "XI-2",
-    "gender": "L"
+    "id": "S0265",
+    "name": "Hadi Wijaya",
+    "nis": "20240265",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0272",
+    "id": "S0251",
+    "name": "Intan Pratama",
+    "nis": "20240251",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0245",
+    "name": "Joko Pratama",
+    "nis": "20240245",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0255",
+    "name": "Joko Pratama",
+    "nis": "20240255",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0267",
+    "name": "Joko Pratama",
+    "nis": "20240267",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0263",
+    "name": "Joko Saputra",
+    "nis": "20240263",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0250",
+    "name": "Kartika Pratama",
+    "nis": "20240250",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0256",
+    "name": "Lestari Rahayu",
+    "nis": "20240256",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0260",
+    "name": "Lestari Sari",
+    "nis": "20240260",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0258",
+    "name": "Nadia Hidayat",
+    "nis": "20240258",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0253",
     "name": "Nadia Rahayu",
-    "nis": "20240272",
-    "classId": "XI-2",
-    "gender": "L"
+    "nis": "20240253",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 21
   },
   {
-    "id": "S0273",
+    "id": "S0254",
+    "name": "Oka Nugroho",
+    "nis": "20240254",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0259",
+    "name": "Oka Wijaya",
+    "nis": "20240259",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0246",
     "name": "Qori Kusuma",
-    "nis": "20240273",
-    "classId": "XI-2",
-    "gender": "P"
+    "nis": "20240246",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 24
   },
   {
-    "id": "S0274",
-    "name": "Eka Hidayat",
-    "nis": "20240274",
-    "classId": "XI-2",
-    "gender": "L"
+    "id": "S0261",
+    "name": "Qori Lestari",
+    "nis": "20240261",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0275",
-    "name": "Citra Saputra",
-    "nis": "20240275",
-    "classId": "XI-2",
-    "gender": "P"
+    "id": "S0243",
+    "name": "Qori Nugroho",
+    "nis": "20240243",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0276",
-    "name": "Dian Sari",
-    "nis": "20240276",
-    "classId": "XI-2",
-    "gender": "P"
+    "id": "S0249",
+    "name": "Reza Rahayu",
+    "nis": "20240249",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 27
   },
   {
-    "id": "S0277",
-    "name": "Gita Kusuma",
-    "nis": "20240277",
-    "classId": "XI-2",
-    "gender": "L"
+    "id": "S0252",
+    "name": "Reza Saputra",
+    "nis": "20240252",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 28
   },
   {
-    "id": "S0278",
-    "name": "Putri Pratama",
-    "nis": "20240278",
-    "classId": "XI-2",
-    "gender": "P"
+    "id": "S0241",
+    "name": "Siti Wijaya",
+    "nis": "20240241",
+    "classId": "XI-1",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
-    "id": "S0279",
-    "name": "Fajar Saputra",
-    "nis": "20240279",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0280",
-    "name": "Muhammad Wijaya",
-    "nis": "20240280",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0281",
-    "name": "Kartika Kusuma",
-    "nis": "20240281",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0282",
-    "name": "Muhammad Hidayat",
-    "nis": "20240282",
-    "classId": "XI-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0283",
-    "name": "Budi Pratama",
-    "nis": "20240283",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0284",
-    "name": "Nadia Lestari",
-    "nis": "20240284",
-    "classId": "XI-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0285",
-    "name": "Oka Hidayat",
-    "nis": "20240285",
-    "classId": "XI-2",
-    "gender": "L"
+    "id": "S0242",
+    "name": "Tari Sari",
+    "nis": "20240242",
+    "classId": "XI-1",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0286",
-    "name": "Qori Pratama",
+    "name": "Ahmad Kusuma",
     "nis": "20240286",
     "classId": "XI-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
-    "id": "S0287",
-    "name": "Putri Gunawan",
-    "nis": "20240287",
+    "id": "S0272",
+    "name": "Ahmad Sari",
+    "nis": "20240272",
     "classId": "XI-2",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
-    "id": "S0288",
-    "name": "Kartika Rahayu",
-    "nis": "20240288",
+    "id": "S0281",
+    "name": "Ahmad Wijaya",
+    "nis": "20240281",
     "classId": "XI-2",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
-    "id": "S0289",
-    "name": "Joko Rahayu",
-    "nis": "20240289",
+    "id": "S0280",
+    "name": "Budi Gunawan",
+    "nis": "20240280",
     "classId": "XI-2",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
-    "id": "S0290",
-    "name": "Siti Nugroho",
-    "nis": "20240290",
+    "id": "S0278",
+    "name": "Budi Kusuma",
+    "nis": "20240278",
     "classId": "XI-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0291",
-    "name": "Oka Saputra",
-    "nis": "20240291",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0292",
-    "name": "Oka Sari",
-    "nis": "20240292",
-    "classId": "XI-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0293",
-    "name": "Lestari Nugroho",
-    "nis": "20240293",
-    "classId": "XI-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0294",
-    "name": "Dian Wijaya",
-    "nis": "20240294",
-    "classId": "XI-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 5
   },
   {
     "id": "S0295",
-    "name": "Kartika Saputra",
+    "name": "Budi Nugroho",
     "nis": "20240295",
     "classId": "XI-2",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0287",
+    "name": "Citra Kusuma",
+    "nis": "20240287",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0276",
+    "name": "Citra Sari",
+    "nis": "20240276",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0293",
+    "name": "Dian Hidayat",
+    "nis": "20240293",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0273",
+    "name": "Dian Sari",
+    "nis": "20240273",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 10
   },
   {
     "id": "S0296",
-    "name": "Gita Kusuma",
+    "name": "Fajar Nugroho",
     "nis": "20240296",
     "classId": "XI-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 11
   },
   {
-    "id": "S0297",
-    "name": "Muhammad Saputra",
-    "nis": "20240297",
+    "id": "S0284",
+    "name": "Hadi Gunawan",
+    "nis": "20240284",
     "classId": "XI-2",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 12
   },
   {
     "id": "S0298",
-    "name": "Lestari Lestari",
+    "name": "Hadi Rahayu",
     "nis": "20240298",
     "classId": "XI-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 13
   },
   {
-    "id": "S0299",
-    "name": "Eka Kusuma",
-    "nis": "20240299",
+    "id": "S0275",
+    "name": "Hadi Wijaya",
+    "nis": "20240275",
     "classId": "XI-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 14
   },
   {
     "id": "S0300",
-    "name": "Kartika Sari",
+    "name": "Intan Saputra",
     "nis": "20240300",
     "classId": "XI-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 15
   },
   {
-    "id": "S0301",
-    "name": "Nadia Wijaya",
-    "nis": "20240301",
-    "classId": "XI-3",
-    "gender": "P"
+    "id": "S0288",
+    "name": "Joko Hidayat",
+    "nis": "20240288",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0302",
-    "name": "Kartika Lestari",
-    "nis": "20240302",
-    "classId": "XI-3",
-    "gender": "L"
+    "id": "S0290",
+    "name": "Joko Saputra",
+    "nis": "20240290",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0303",
-    "name": "Siti Pratama",
-    "nis": "20240303",
-    "classId": "XI-3",
-    "gender": "L"
+    "id": "S0271",
+    "name": "Kartika Pratama",
+    "nis": "20240271",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 18
   },
   {
-    "id": "S0304",
-    "name": "Dian Wijaya",
-    "nis": "20240304",
-    "classId": "XI-3",
-    "gender": "P"
+    "id": "S0289",
+    "name": "Kartika Rahayu",
+    "nis": "20240289",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0282",
+    "name": "Kartika Sari",
+    "nis": "20240282",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0294",
+    "name": "Muhammad Saputra",
+    "nis": "20240294",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0283",
+    "name": "Nadia Nugroho",
+    "nis": "20240283",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0274",
+    "name": "Nadia Rahayu",
+    "nis": "20240274",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0277",
+    "name": "Oka Wijaya",
+    "nis": "20240277",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0285",
+    "name": "Putri Hidayat",
+    "nis": "20240285",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0279",
+    "name": "Putri Pratama",
+    "nis": "20240279",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0292",
+    "name": "Qori Kusuma",
+    "nis": "20240292",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0299",
+    "name": "Reza Hidayat",
+    "nis": "20240299",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0291",
+    "name": "Tari Gunawan",
+    "nis": "20240291",
+    "classId": "XI-2",
+    "gender": "P",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0297",
+    "name": "Tari Gunawan",
+    "nis": "20240297",
+    "classId": "XI-2",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0305",
-    "name": "Joko Kusuma",
+    "name": "Ahmad Rahayu",
     "nis": "20240305",
     "classId": "XI-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0306",
-    "name": "Putri Sari",
+    "name": "Budi Hidayat",
     "nis": "20240306",
     "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0307",
-    "name": "Intan Rahayu",
-    "nis": "20240307",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0308",
-    "name": "Reza Rahayu",
-    "nis": "20240308",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0309",
-    "name": "Reza Gunawan",
-    "nis": "20240309",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0310",
-    "name": "Hadi Kusuma",
-    "nis": "20240310",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0311",
-    "name": "Gita Kusuma",
-    "nis": "20240311",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0312",
-    "name": "Tari Rahayu",
-    "nis": "20240312",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0313",
-    "name": "Oka Nugroho",
-    "nis": "20240313",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0314",
-    "name": "Nadia Hidayat",
-    "nis": "20240314",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0315",
-    "name": "Reza Nugroho",
-    "nis": "20240315",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0316",
-    "name": "Fajar Wijaya",
-    "nis": "20240316",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0317",
-    "name": "Tari Sari",
-    "nis": "20240317",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0318",
-    "name": "Reza Kusuma",
-    "nis": "20240318",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0319",
-    "name": "Lestari Gunawan",
-    "nis": "20240319",
-    "classId": "XI-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
     "id": "S0320",
-    "name": "Ahmad Nugroho",
+    "name": "Budi Sari",
     "nis": "20240320",
     "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0321",
-    "name": "Citra Pratama",
-    "nis": "20240321",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0322",
-    "name": "Siti Hidayat",
-    "nis": "20240322",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0323",
-    "name": "Gita Hidayat",
-    "nis": "20240323",
-    "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0324",
-    "name": "Muhammad Wijaya",
-    "nis": "20240324",
-    "classId": "XI-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 3
   },
   {
     "id": "S0325",
-    "name": "Lestari Saputra",
+    "name": "Citra Gunawan",
     "nis": "20240325",
     "classId": "XI-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0326",
-    "name": "Muhammad Kusuma",
-    "nis": "20240326",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0327",
-    "name": "Eka Saputra",
-    "nis": "20240327",
-    "classId": "XI-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0328",
-    "name": "Siti Gunawan",
-    "nis": "20240328",
-    "classId": "XI-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
     "id": "S0329",
-    "name": "Siti Kusuma",
+    "name": "Citra Kusuma",
     "nis": "20240329",
     "classId": "XI-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0307",
+    "name": "Citra Lestari",
+    "nis": "20240307",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0310",
+    "name": "Dian Nugroho",
+    "nis": "20240310",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 7
   },
   {
     "id": "S0330",
-    "name": "Siti Wijaya",
+    "name": "Dian Nugroho",
     "nis": "20240330",
     "classId": "XI-3",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0331",
-    "name": "Nadia Sari",
-    "nis": "20240331",
-    "classId": "XI-4",
-    "gender": "L"
+    "id": "S0324",
+    "name": "Fajar Hidayat",
+    "nis": "20240324",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0332",
+    "id": "S0303",
+    "name": "Fajar Wijaya",
+    "nis": "20240303",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0323",
+    "name": "Hadi Wijaya",
+    "nis": "20240323",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0319",
+    "name": "Intan Kusuma",
+    "nis": "20240319",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0312",
+    "name": "Intan Lestari",
+    "nis": "20240312",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0322",
+    "name": "Intan Pratama",
+    "nis": "20240322",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0304",
+    "name": "Intan Wijaya",
+    "nis": "20240304",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0301",
     "name": "Joko Lestari",
-    "nis": "20240332",
-    "classId": "XI-4",
-    "gender": "L"
+    "nis": "20240301",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0333",
-    "name": "Joko Wijaya",
-    "nis": "20240333",
-    "classId": "XI-4",
-    "gender": "P"
+    "id": "S0318",
+    "name": "Kartika Nugroho",
+    "nis": "20240318",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0334",
-    "name": "Eka Hidayat",
-    "nis": "20240334",
-    "classId": "XI-4",
-    "gender": "P"
+    "id": "S0313",
+    "name": "Lestari Nugroho",
+    "nis": "20240313",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 18
   },
   {
-    "id": "S0335",
-    "name": "Joko Rahayu",
-    "nis": "20240335",
-    "classId": "XI-4",
-    "gender": "P"
+    "id": "S0321",
+    "name": "Lestari Nugroho",
+    "nis": "20240321",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0336",
+    "id": "S0315",
+    "name": "Lestari Sari",
+    "nis": "20240315",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0327",
+    "name": "Lestari Wijaya",
+    "nis": "20240327",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0326",
+    "name": "Muhammad Saputra",
+    "nis": "20240326",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0308",
+    "name": "Nadia Lestari",
+    "nis": "20240308",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0316",
+    "name": "Oka Nugroho",
+    "nis": "20240316",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0314",
     "name": "Qori Saputra",
-    "nis": "20240336",
-    "classId": "XI-4",
-    "gender": "P"
+    "nis": "20240314",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 25
   },
   {
-    "id": "S0337",
-    "name": "Eka Lestari",
-    "nis": "20240337",
-    "classId": "XI-4",
-    "gender": "P"
+    "id": "S0328",
+    "name": "Reza Nugroho",
+    "nis": "20240328",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0317",
+    "name": "Siti Hidayat",
+    "nis": "20240317",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0302",
+    "name": "Siti Sari",
+    "nis": "20240302",
+    "classId": "XI-3",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0311",
+    "name": "Tari Nugroho",
+    "nis": "20240311",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0309",
+    "name": "Tari Sari",
+    "nis": "20240309",
+    "classId": "XI-3",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0338",
-    "name": "Citra Nugroho",
+    "name": "Citra Pratama",
     "nis": "20240338",
     "classId": "XI-4",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
-    "id": "S0339",
-    "name": "Budi Gunawan",
-    "nis": "20240339",
+    "id": "S0336",
+    "name": "Citra Rahayu",
+    "nis": "20240336",
     "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0340",
-    "name": "Ahmad Sari",
-    "nis": "20240340",
-    "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0341",
-    "name": "Oka Sari",
-    "nis": "20240341",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0342",
-    "name": "Muhammad Hidayat",
-    "nis": "20240342",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0343",
-    "name": "Kartika Gunawan",
-    "nis": "20240343",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0344",
-    "name": "Citra Wijaya",
-    "nis": "20240344",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0345",
-    "name": "Tari Sari",
-    "nis": "20240345",
-    "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0346",
-    "name": "Gita Lestari",
-    "nis": "20240346",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0347",
-    "name": "Citra Pratama",
-    "nis": "20240347",
-    "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0348",
-    "name": "Gita Saputra",
-    "nis": "20240348",
-    "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0349",
-    "name": "Oka Kusuma",
-    "nis": "20240349",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0350",
-    "name": "Dian Kusuma",
-    "nis": "20240350",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0351",
-    "name": "Citra Lestari",
-    "nis": "20240351",
-    "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0352",
-    "name": "Hadi Saputra",
-    "nis": "20240352",
-    "classId": "XI-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
     "id": "S0353",
-    "name": "Gita Lestari",
+    "name": "Dian Lestari",
     "nis": "20240353",
     "classId": "XI-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0354",
-    "name": "Eka Rahayu",
-    "nis": "20240354",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0355",
-    "name": "Citra Hidayat",
-    "nis": "20240355",
-    "classId": "XI-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0356",
-    "name": "Gita Sari",
-    "nis": "20240356",
-    "classId": "XI-4",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 3
   },
   {
     "id": "S0357",
-    "name": "Oka Saputra",
+    "name": "Dian Lestari",
     "nis": "20240357",
     "classId": "XI-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0348",
+    "name": "Eka Kusuma",
+    "nis": "20240348",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0356",
+    "name": "Eka Nugroho",
+    "nis": "20240356",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0335",
+    "name": "Gita Hidayat",
+    "nis": "20240335",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0342",
+    "name": "Intan Lestari",
+    "nis": "20240342",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0354",
+    "name": "Intan Nugroho",
+    "nis": "20240354",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0352",
+    "name": "Intan Wijaya",
+    "nis": "20240352",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0351",
+    "name": "Joko Kusuma",
+    "nis": "20240351",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0346",
+    "name": "Joko Rahayu",
+    "nis": "20240346",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 12
   },
   {
     "id": "S0358",
-    "name": "Tari Nugroho",
+    "name": "Muhammad Hidayat",
     "nis": "20240358",
     "classId": "XI-4",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0359",
-    "name": "Budi Pratama",
-    "nis": "20240359",
+    "id": "S0341",
+    "name": "Muhammad Lestari",
+    "nis": "20240341",
     "classId": "XI-4",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0343",
+    "name": "Muhammad Lestari",
+    "nis": "20240343",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0331",
+    "name": "Muhammad Nugroho",
+    "nis": "20240331",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0347",
+    "name": "Muhammad Saputra",
+    "nis": "20240347",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0345",
+    "name": "Nadia Pratama",
+    "nis": "20240345",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0349",
+    "name": "Nadia Sari",
+    "nis": "20240349",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0332",
+    "name": "Oka Hidayat",
+    "nis": "20240332",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0355",
+    "name": "Oka Kusuma",
+    "nis": "20240355",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0350",
+    "name": "Oka Saputra",
+    "nis": "20240350",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0344",
+    "name": "Putri Kusuma",
+    "nis": "20240344",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0334",
+    "name": "Reza Nugroho",
+    "nis": "20240334",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0340",
+    "name": "Reza Pratama",
+    "nis": "20240340",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0333",
+    "name": "Reza Rahayu",
+    "nis": "20240333",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0337",
+    "name": "Reza Saputra",
+    "nis": "20240337",
+    "classId": "XI-4",
+    "gender": "P",
+    "noAbsen": 27
   },
   {
     "id": "S0360",
-    "name": "Joko Sari",
+    "name": "Tari Gunawan",
     "nis": "20240360",
     "classId": "XI-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0361",
-    "name": "Citra Pratama",
-    "nis": "20240361",
-    "classId": "XI-5",
-    "gender": "P"
+    "id": "S0339",
+    "name": "Tari Nugroho",
+    "nis": "20240339",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 29
   },
   {
-    "id": "S0362",
-    "name": "Hadi Lestari",
-    "nis": "20240362",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0363",
-    "name": "Gita Rahayu",
-    "nis": "20240363",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0364",
-    "name": "Citra Pratama",
-    "nis": "20240364",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0365",
-    "name": "Eka Wijaya",
-    "nis": "20240365",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0366",
-    "name": "Qori Nugroho",
-    "nis": "20240366",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0367",
-    "name": "Intan Nugroho",
-    "nis": "20240367",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0368",
-    "name": "Budi Sari",
-    "nis": "20240368",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0369",
-    "name": "Joko Hidayat",
-    "nis": "20240369",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0370",
-    "name": "Putri Sari",
-    "nis": "20240370",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0371",
-    "name": "Siti Pratama",
-    "nis": "20240371",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0372",
-    "name": "Gita Hidayat",
-    "nis": "20240372",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0373",
-    "name": "Oka Lestari",
-    "nis": "20240373",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0374",
-    "name": "Reza Pratama",
-    "nis": "20240374",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0375",
-    "name": "Reza Nugroho",
-    "nis": "20240375",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0376",
-    "name": "Intan Hidayat",
-    "nis": "20240376",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0377",
-    "name": "Kartika Pratama",
-    "nis": "20240377",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0378",
-    "name": "Ahmad Saputra",
-    "nis": "20240378",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0379",
-    "name": "Budi Hidayat",
-    "nis": "20240379",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0380",
-    "name": "Ahmad Pratama",
-    "nis": "20240380",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0381",
-    "name": "Budi Nugroho",
-    "nis": "20240381",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0382",
-    "name": "Eka Gunawan",
-    "nis": "20240382",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0383",
-    "name": "Nadia Nugroho",
-    "nis": "20240383",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0384",
-    "name": "Ahmad Wijaya",
-    "nis": "20240384",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0385",
-    "name": "Gita Pratama",
-    "nis": "20240385",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0386",
-    "name": "Budi Lestari",
-    "nis": "20240386",
-    "classId": "XI-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0387",
-    "name": "Citra Kusuma",
-    "nis": "20240387",
-    "classId": "XI-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0388",
-    "name": "Fajar Rahayu",
-    "nis": "20240388",
-    "classId": "XI-5",
-    "gender": "P"
+    "id": "S0359",
+    "name": "Tari Rahayu",
+    "nis": "20240359",
+    "classId": "XI-4",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0389",
-    "name": "Fajar Pratama",
+    "name": "Ahmad Gunawan",
     "nis": "20240389",
     "classId": "XI-5",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0364",
+    "name": "Ahmad Pratama",
+    "nis": "20240364",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0377",
+    "name": "Ahmad Saputra",
+    "nis": "20240377",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0374",
+    "name": "Citra Rahayu",
+    "nis": "20240374",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0371",
+    "name": "Citra Sari",
+    "nis": "20240371",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0368",
+    "name": "Dian Rahayu",
+    "nis": "20240368",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0383",
+    "name": "Dian Saputra",
+    "nis": "20240383",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0373",
+    "name": "Eka Rahayu",
+    "nis": "20240373",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0366",
+    "name": "Eka Sari",
+    "nis": "20240366",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0384",
+    "name": "Fajar Lestari",
+    "nis": "20240384",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 10
   },
   {
     "id": "S0390",
-    "name": "Joko Rahayu",
+    "name": "Fajar Saputra",
     "nis": "20240390",
     "classId": "XI-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0391",
-    "name": "Fajar Sari",
-    "nis": "20240391",
-    "classId": "XI-6",
-    "gender": "P"
+    "id": "S0386",
+    "name": "Gita Hidayat",
+    "nis": "20240386",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0387",
+    "name": "Gita Lestari",
+    "nis": "20240387",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0381",
+    "name": "Joko Nugroho",
+    "nis": "20240381",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0375",
+    "name": "Joko Sari",
+    "nis": "20240375",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0380",
+    "name": "Lestari Pratama",
+    "nis": "20240380",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0362",
+    "name": "Lestari Saputra",
+    "nis": "20240362",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0365",
+    "name": "Muhammad Nugroho",
+    "nis": "20240365",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0370",
+    "name": "Muhammad Nugroho",
+    "nis": "20240370",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0376",
+    "name": "Muhammad Nugroho",
+    "nis": "20240376",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0369",
+    "name": "Nadia Kusuma",
+    "nis": "20240369",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0372",
+    "name": "Nadia Pratama",
+    "nis": "20240372",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0361",
+    "name": "Oka Hidayat",
+    "nis": "20240361",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0367",
+    "name": "Oka Hidayat",
+    "nis": "20240367",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0385",
+    "name": "Oka Sari",
+    "nis": "20240385",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0379",
+    "name": "Putri Saputra",
+    "nis": "20240379",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0382",
+    "name": "Reza Gunawan",
+    "nis": "20240382",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0378",
+    "name": "Tari Lestari",
+    "nis": "20240378",
+    "classId": "XI-5",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0363",
+    "name": "Tari Pratama",
+    "nis": "20240363",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0388",
+    "name": "Tari Rahayu",
+    "nis": "20240388",
+    "classId": "XI-5",
+    "gender": "P",
+    "noAbsen": 30
   },
   {
     "id": "S0392",
-    "name": "Muhammad Pratama",
+    "name": "Ahmad Gunawan",
     "nis": "20240392",
     "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0393",
-    "name": "Putri Hidayat",
-    "nis": "20240393",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0394",
-    "name": "Joko Wijaya",
-    "nis": "20240394",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0395",
-    "name": "Muhammad Kusuma",
-    "nis": "20240395",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0396",
-    "name": "Kartika Nugroho",
-    "nis": "20240396",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0397",
-    "name": "Reza Wijaya",
-    "nis": "20240397",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0398",
-    "name": "Intan Sari",
-    "nis": "20240398",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0399",
-    "name": "Muhammad Gunawan",
-    "nis": "20240399",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0400",
-    "name": "Putri Pratama",
-    "nis": "20240400",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0401",
-    "name": "Tari Kusuma",
-    "nis": "20240401",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0402",
-    "name": "Gita Pratama",
-    "nis": "20240402",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0403",
-    "name": "Reza Sari",
-    "nis": "20240403",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0404",
-    "name": "Lestari Saputra",
-    "nis": "20240404",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0405",
-    "name": "Budi Wijaya",
-    "nis": "20240405",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0406",
-    "name": "Oka Saputra",
-    "nis": "20240406",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0407",
-    "name": "Fajar Kusuma",
-    "nis": "20240407",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0408",
-    "name": "Eka Wijaya",
-    "nis": "20240408",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0409",
-    "name": "Putri Saputra",
-    "nis": "20240409",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0410",
-    "name": "Hadi Hidayat",
-    "nis": "20240410",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0411",
-    "name": "Putri Hidayat",
-    "nis": "20240411",
-    "classId": "XI-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
     "id": "S0412",
-    "name": "Budi Wijaya",
+    "name": "Ahmad Hidayat",
     "nis": "20240412",
     "classId": "XI-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
-    "id": "S0413",
-    "name": "Joko Rahayu",
-    "nis": "20240413",
+    "id": "S0395",
+    "name": "Ahmad Nugroho",
+    "nis": "20240395",
     "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0414",
-    "name": "Siti Hidayat",
-    "nis": "20240414",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0415",
-    "name": "Qori Rahayu",
-    "nis": "20240415",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0416",
-    "name": "Fajar Hidayat",
-    "nis": "20240416",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0417",
-    "name": "Dian Lestari",
-    "nis": "20240417",
-    "classId": "XI-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0418",
-    "name": "Siti Gunawan",
-    "nis": "20240418",
-    "classId": "XI-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0419",
-    "name": "Budi Saputra",
-    "nis": "20240419",
-    "classId": "XI-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 3
   },
   {
     "id": "S0420",
-    "name": "Muhammad Lestari",
+    "name": "Ahmad Saputra",
     "nis": "20240420",
     "classId": "XI-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
-    "id": "S0421",
-    "name": "Dian Pratama",
-    "nis": "20240421",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0398",
+    "name": "Budi Gunawan",
+    "nis": "20240398",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 5
   },
   {
-    "id": "S0422",
-    "name": "Hadi Sari",
-    "nis": "20240422",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0404",
+    "name": "Budi Hidayat",
+    "nis": "20240404",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 6
   },
   {
-    "id": "S0423",
-    "name": "Hadi Rahayu",
-    "nis": "20240423",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0415",
+    "name": "Budi Sari",
+    "nis": "20240415",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 7
   },
   {
-    "id": "S0424",
+    "id": "S0410",
     "name": "Fajar Nugroho",
-    "nis": "20240424",
-    "classId": "XI-7",
-    "gender": "L"
+    "nis": "20240410",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0425",
-    "name": "Lestari Gunawan",
-    "nis": "20240425",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0403",
+    "name": "Fajar Sari",
+    "nis": "20240403",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0426",
-    "name": "Putri Nugroho",
-    "nis": "20240426",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0405",
+    "name": "Gita Rahayu",
+    "nis": "20240405",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 10
   },
   {
-    "id": "S0427",
-    "name": "Reza Rahayu",
-    "nis": "20240427",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0393",
+    "name": "Hadi Gunawan",
+    "nis": "20240393",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0428",
-    "name": "Kartika Lestari",
-    "nis": "20240428",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0419",
+    "name": "Hadi Gunawan",
+    "nis": "20240419",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 12
   },
   {
-    "id": "S0429",
-    "name": "Kartika Hidayat",
-    "nis": "20240429",
-    "classId": "XI-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0430",
-    "name": "Joko Kusuma",
-    "nis": "20240430",
-    "classId": "XI-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0431",
-    "name": "Nadia Kusuma",
-    "nis": "20240431",
-    "classId": "XI-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0432",
-    "name": "Citra Gunawan",
-    "nis": "20240432",
-    "classId": "XI-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0433",
+    "id": "S0396",
     "name": "Hadi Pratama",
-    "nis": "20240433",
-    "classId": "XI-7",
-    "gender": "L"
+    "nis": "20240396",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0434",
-    "name": "Dian Kusuma",
-    "nis": "20240434",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0391",
+    "name": "Hadi Rahayu",
+    "nis": "20240391",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 14
   },
   {
-    "id": "S0435",
-    "name": "Citra Nugroho",
-    "nis": "20240435",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0397",
+    "name": "Hadi Rahayu",
+    "nis": "20240397",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0436",
-    "name": "Joko Pratama",
-    "nis": "20240436",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0401",
+    "name": "Intan Wijaya",
+    "nis": "20240401",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0437",
-    "name": "Kartika Rahayu",
-    "nis": "20240437",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0417",
+    "name": "Joko Nugroho",
+    "nis": "20240417",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0438",
-    "name": "Gita Saputra",
-    "nis": "20240438",
-    "classId": "XI-7",
-    "gender": "L"
+    "id": "S0411",
+    "name": "Lestari Hidayat",
+    "nis": "20240411",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 18
   },
   {
-    "id": "S0439",
-    "name": "Ahmad Pratama",
-    "nis": "20240439",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0408",
+    "name": "Lestari Saputra",
+    "nis": "20240408",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 19
   },
   {
-    "id": "S0440",
-    "name": "Citra Lestari",
-    "nis": "20240440",
-    "classId": "XI-7",
-    "gender": "P"
+    "id": "S0418",
+    "name": "Muhammad Gunawan",
+    "nis": "20240418",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0414",
+    "name": "Muhammad Saputra",
+    "nis": "20240414",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0402",
+    "name": "Nadia Nugroho",
+    "nis": "20240402",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0413",
+    "name": "Nadia Sari",
+    "nis": "20240413",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0400",
+    "name": "Oka Wijaya",
+    "nis": "20240400",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0406",
+    "name": "Putri Wijaya",
+    "nis": "20240406",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0407",
+    "name": "Qori Pratama",
+    "nis": "20240407",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0394",
+    "name": "Siti Hidayat",
+    "nis": "20240394",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0409",
+    "name": "Siti Saputra",
+    "nis": "20240409",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0399",
+    "name": "Tari Lestari",
+    "nis": "20240399",
+    "classId": "XI-6",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0416",
+    "name": "Tari Rahayu",
+    "nis": "20240416",
+    "classId": "XI-6",
+    "gender": "P",
+    "noAbsen": 30
   },
   {
     "id": "S0441",
-    "name": "Citra Sari",
+    "name": "Ahmad Kusuma",
     "nis": "20240441",
     "classId": "XI-7",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
-    "id": "S0442",
-    "name": "Putri Wijaya",
-    "nis": "20240442",
+    "id": "S0424",
+    "name": "Ahmad Saputra",
+    "nis": "20240424",
     "classId": "XI-7",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
-    "id": "S0443",
-    "name": "Qori Rahayu",
-    "nis": "20240443",
+    "id": "S0428",
+    "name": "Budi Kusuma",
+    "nis": "20240428",
     "classId": "XI-7",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
-    "id": "S0444",
-    "name": "Fajar Kusuma",
-    "nis": "20240444",
+    "id": "S0431",
+    "name": "Budi Lestari",
+    "nis": "20240431",
     "classId": "XI-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0445",
-    "name": "Siti Saputra",
-    "nis": "20240445",
-    "classId": "XI-7",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
     "id": "S0446",
-    "name": "Intan Nugroho",
+    "name": "Dian Nugroho",
     "nis": "20240446",
     "classId": "XI-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0447",
-    "name": "Intan Kusuma",
-    "nis": "20240447",
-    "classId": "XI-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0448",
-    "name": "Putri Gunawan",
-    "nis": "20240448",
-    "classId": "XI-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0449",
-    "name": "Putri Nugroho",
-    "nis": "20240449",
-    "classId": "XI-7",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 5
   },
   {
     "id": "S0450",
-    "name": "Putri Rahayu",
+    "name": "Dian Nugroho",
     "nis": "20240450",
     "classId": "XI-7",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 6
   },
   {
-    "id": "S0451",
-    "name": "Joko Rahayu",
-    "nis": "20240451",
-    "classId": "XI-8",
-    "gender": "L"
+    "id": "S0447",
+    "name": "Dian Sari",
+    "nis": "20240447",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 7
   },
   {
-    "id": "S0452",
-    "name": "Siti Gunawan",
-    "nis": "20240452",
-    "classId": "XI-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0453",
-    "name": "Putri Nugroho",
-    "nis": "20240453",
-    "classId": "XI-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0454",
-    "name": "Citra Pratama",
-    "nis": "20240454",
-    "classId": "XI-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0455",
-    "name": "Tari Kusuma",
-    "nis": "20240455",
-    "classId": "XI-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0456",
+    "id": "S0444",
     "name": "Eka Hidayat",
-    "nis": "20240456",
-    "classId": "XI-8",
-    "gender": "P"
+    "nis": "20240444",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0457",
-    "name": "Citra Pratama",
-    "nis": "20240457",
-    "classId": "XI-8",
-    "gender": "P"
+    "id": "S0433",
+    "name": "Eka Lestari",
+    "nis": "20240433",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0458",
+    "id": "S0436",
+    "name": "Eka Rahayu",
+    "nis": "20240436",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0430",
+    "name": "Eka Wijaya",
+    "nis": "20240430",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0432",
     "name": "Fajar Gunawan",
-    "nis": "20240458",
-    "classId": "XI-8",
-    "gender": "P"
+    "nis": "20240432",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 12
   },
   {
-    "id": "S0459",
-    "name": "Ahmad Rahayu",
-    "nis": "20240459",
-    "classId": "XI-8",
-    "gender": "L"
+    "id": "S0443",
+    "name": "Fajar Rahayu",
+    "nis": "20240443",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0460",
+    "id": "S0437",
     "name": "Gita Gunawan",
-    "nis": "20240460",
-    "classId": "XI-8",
-    "gender": "P"
+    "nis": "20240437",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 14
   },
   {
-    "id": "S0461",
-    "name": "Oka Kusuma",
-    "nis": "20240461",
-    "classId": "XI-8",
-    "gender": "L"
+    "id": "S0425",
+    "name": "Hadi Pratama",
+    "nis": "20240425",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0462",
-    "name": "Qori Lestari",
-    "nis": "20240462",
-    "classId": "XI-8",
-    "gender": "L"
+    "id": "S0423",
+    "name": "Hadi Wijaya",
+    "nis": "20240423",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0463",
-    "name": "Reza Sari",
-    "nis": "20240463",
+    "id": "S0434",
+    "name": "Intan Gunawan",
+    "nis": "20240434",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0448",
+    "name": "Intan Kusuma",
+    "nis": "20240448",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0439",
+    "name": "Intan Pratama",
+    "nis": "20240439",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0435",
+    "name": "Joko Saputra",
+    "nis": "20240435",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0422",
+    "name": "Kartika Hidayat",
+    "nis": "20240422",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0427",
+    "name": "Kartika Saputra",
+    "nis": "20240427",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0426",
+    "name": "Lestari Saputra",
+    "nis": "20240426",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0445",
+    "name": "Muhammad Nugroho",
+    "nis": "20240445",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0421",
+    "name": "Muhammad Pratama",
+    "nis": "20240421",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0429",
+    "name": "Nadia Lestari",
+    "nis": "20240429",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0438",
+    "name": "Putri Gunawan",
+    "nis": "20240438",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0449",
+    "name": "Qori Rahayu",
+    "nis": "20240449",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0440",
+    "name": "Tari Saputra",
+    "nis": "20240440",
+    "classId": "XI-7",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0442",
+    "name": "Tari Wijaya",
+    "nis": "20240442",
+    "classId": "XI-7",
+    "gender": "P",
+    "noAbsen": 30
+  },
+  {
+    "id": "S0472",
+    "name": "Ahmad Lestari",
+    "nis": "20240472",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
     "id": "S0464",
-    "name": "Qori Pratama",
+    "name": "Ahmad Rahayu",
     "nis": "20240464",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
-    "id": "S0465",
-    "name": "Nadia Lestari",
-    "nis": "20240465",
+    "id": "S0478",
+    "name": "Ahmad Saputra",
+    "nis": "20240478",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0458",
+    "name": "Ahmad Sari",
+    "nis": "20240458",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0452",
+    "name": "Budi Rahayu",
+    "nis": "20240452",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0474",
+    "name": "Citra Kusuma",
+    "nis": "20240474",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 6
   },
   {
     "id": "S0466",
-    "name": "Joko Lestari",
+    "name": "Dian Gunawan",
     "nis": "20240466",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0462",
+    "name": "Dian Wijaya",
+    "nis": "20240462",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
     "id": "S0467",
-    "name": "Tari Saputra",
+    "name": "Eka Rahayu",
     "nis": "20240467",
     "classId": "XI-8",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0457",
+    "name": "Eka Sari",
+    "nis": "20240457",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0480",
+    "name": "Fajar Lestari",
+    "nis": "20240480",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0477",
+    "name": "Fajar Rahayu",
+    "nis": "20240477",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 12
   },
   {
     "id": "S0468",
-    "name": "Hadi Sari",
+    "name": "Gita Pratama",
     "nis": "20240468",
     "classId": "XI-8",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 13
   },
   {
-    "id": "S0469",
-    "name": "Budi Lestari",
-    "nis": "20240469",
+    "id": "S0453",
+    "name": "Hadi Lestari",
+    "nis": "20240453",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0461",
+    "name": "Hadi Nugroho",
+    "nis": "20240461",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0473",
+    "name": "Intan Gunawan",
+    "nis": "20240473",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0460",
+    "name": "Joko Kusuma",
+    "nis": "20240460",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 17
   },
   {
     "id": "S0470",
-    "name": "Fajar Gunawan",
+    "name": "Kartika Hidayat",
     "nis": "20240470",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0455",
+    "name": "Lestari Gunawan",
+    "nis": "20240455",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0465",
+    "name": "Lestari Lestari",
+    "nis": "20240465",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 20
   },
   {
     "id": "S0471",
     "name": "Lestari Rahayu",
     "nis": "20240471",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 21
   },
   {
-    "id": "S0472",
-    "name": "Dian Kusuma",
-    "nis": "20240472",
+    "id": "S0454",
+    "name": "Lestari Wijaya",
+    "nis": "20240454",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 22
   },
   {
-    "id": "S0473",
-    "name": "Hadi Wijaya",
-    "nis": "20240473",
+    "id": "S0456",
+    "name": "Nadia Kusuma",
+    "nis": "20240456",
     "classId": "XI-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0474",
-    "name": "Reza Sari",
-    "nis": "20240474",
-    "classId": "XI-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0475",
-    "name": "Fajar Rahayu",
-    "nis": "20240475",
-    "classId": "XI-8",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 23
   },
   {
     "id": "S0476",
-    "name": "Kartika Nugroho",
+    "name": "Oka Pratama",
     "nis": "20240476",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 24
   },
   {
-    "id": "S0477",
-    "name": "Intan Gunawan",
-    "nis": "20240477",
+    "id": "S0469",
+    "name": "Putri Gunawan",
+    "nis": "20240469",
     "classId": "XI-8",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 25
   },
   {
-    "id": "S0478",
-    "name": "Intan Gunawan",
-    "nis": "20240478",
+    "id": "S0463",
+    "name": "Putri Saputra",
+    "nis": "20240463",
     "classId": "XI-8",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0451",
+    "name": "Qori Gunawan",
+    "nis": "20240451",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0459",
+    "name": "Qori Hidayat",
+    "nis": "20240459",
+    "classId": "XI-8",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0475",
+    "name": "Qori Saputra",
+    "nis": "20240475",
+    "classId": "XI-8",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
     "id": "S0479",
-    "name": "Hadi Gunawan",
+    "name": "Siti Pratama",
     "nis": "20240479",
     "classId": "XI-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0480",
-    "name": "Muhammad Nugroho",
-    "nis": "20240480",
-    "classId": "XI-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0481",
-    "name": "Budi Saputra",
-    "nis": "20240481",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0482",
-    "name": "Siti Nugroho",
-    "nis": "20240482",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0483",
-    "name": "Nadia Nugroho",
-    "nis": "20240483",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0484",
-    "name": "Reza Pratama",
-    "nis": "20240484",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0485",
-    "name": "Nadia Kusuma",
-    "nis": "20240485",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0486",
-    "name": "Gita Nugroho",
-    "nis": "20240486",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0487",
-    "name": "Dian Wijaya",
-    "nis": "20240487",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0488",
-    "name": "Joko Nugroho",
-    "nis": "20240488",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0489",
-    "name": "Ahmad Sari",
-    "nis": "20240489",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0490",
-    "name": "Intan Lestari",
-    "nis": "20240490",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0491",
-    "name": "Reza Gunawan",
-    "nis": "20240491",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0492",
-    "name": "Lestari Sari",
-    "nis": "20240492",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0493",
-    "name": "Reza Sari",
-    "nis": "20240493",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0494",
-    "name": "Putri Saputra",
-    "nis": "20240494",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0495",
-    "name": "Nadia Saputra",
-    "nis": "20240495",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0496",
-    "name": "Qori Wijaya",
-    "nis": "20240496",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0497",
-    "name": "Lestari Sari",
-    "nis": "20240497",
-    "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0498",
-    "name": "Joko Lestari",
-    "nis": "20240498",
-    "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0499",
-    "name": "Lestari Wijaya",
-    "nis": "20240499",
-    "classId": "XII-1",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0500",
-    "name": "Muhammad Pratama",
+    "name": "Ahmad Pratama",
     "nis": "20240500",
     "classId": "XII-1",
-    "gender": "P"
-  },
-  {
-    "id": "S0501",
-    "name": "Citra Rahayu",
-    "nis": "20240501",
-    "classId": "XII-1",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0502",
-    "name": "Hadi Gunawan",
+    "name": "Budi Gunawan",
     "nis": "20240502",
     "classId": "XII-1",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
-    "id": "S0503",
-    "name": "Oka Sari",
-    "nis": "20240503",
+    "id": "S0483",
+    "name": "Citra Nugroho",
+    "nis": "20240483",
     "classId": "XII-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
     "id": "S0504",
-    "name": "Dian Nugroho",
+    "name": "Citra Wijaya",
     "nis": "20240504",
     "classId": "XII-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0495",
+    "name": "Dian Gunawan",
+    "nis": "20240495",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0488",
+    "name": "Fajar Lestari",
+    "nis": "20240488",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 6
   },
   {
     "id": "S0505",
-    "name": "Lestari Kusuma",
+    "name": "Fajar Lestari",
     "nis": "20240505",
     "classId": "XII-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 7
   },
   {
-    "id": "S0506",
-    "name": "Putri Pratama",
-    "nis": "20240506",
+    "id": "S0491",
+    "name": "Fajar Wijaya",
+    "nis": "20240491",
     "classId": "XII-1",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0507",
-    "name": "Qori Rahayu",
-    "nis": "20240507",
+    "id": "S0497",
+    "name": "Gita Hidayat",
+    "nis": "20240497",
     "classId": "XII-1",
-    "gender": "L"
-  },
-  {
-    "id": "S0508",
-    "name": "Intan Hidayat",
-    "nis": "20240508",
-    "classId": "XII-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 9
   },
   {
     "id": "S0509",
-    "name": "Hadi Hidayat",
+    "name": "Hadi Gunawan",
     "nis": "20240509",
     "classId": "XII-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0499",
+    "name": "Joko Nugroho",
+    "nis": "20240499",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0484",
+    "name": "Joko Saputra",
+    "nis": "20240484",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0487",
+    "name": "Joko Sari",
+    "nis": "20240487",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0481",
+    "name": "Kartika Lestari",
+    "nis": "20240481",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0493",
+    "name": "Kartika Saputra",
+    "nis": "20240493",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 15
   },
   {
     "id": "S0510",
-    "name": "Ahmad Pratama",
+    "name": "Lestari Lestari",
     "nis": "20240510",
     "classId": "XII-1",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 16
   },
   {
-    "id": "S0511",
-    "name": "Reza Gunawan",
-    "nis": "20240511",
-    "classId": "XII-2",
-    "gender": "P"
+    "id": "S0482",
+    "name": "Lestari Rahayu",
+    "nis": "20240482",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 17
   },
   {
-    "id": "S0512",
+    "id": "S0507",
+    "name": "Lestari Wijaya",
+    "nis": "20240507",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0501",
+    "name": "Muhammad Lestari",
+    "nis": "20240501",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0494",
+    "name": "Muhammad Pratama",
+    "nis": "20240494",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0490",
+    "name": "Muhammad Saputra",
+    "nis": "20240490",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0489",
+    "name": "Nadia Nugroho",
+    "nis": "20240489",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0506",
+    "name": "Oka Gunawan",
+    "nis": "20240506",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0503",
+    "name": "Oka Lestari",
+    "nis": "20240503",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0485",
     "name": "Putri Wijaya",
-    "nis": "20240512",
-    "classId": "XII-2",
-    "gender": "L"
+    "nis": "20240485",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0513",
-    "name": "Siti Rahayu",
-    "nis": "20240513",
-    "classId": "XII-2",
-    "gender": "P"
+    "id": "S0498",
+    "name": "Qori Hidayat",
+    "nis": "20240498",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 26
   },
   {
-    "id": "S0514",
-    "name": "Kartika Rahayu",
-    "nis": "20240514",
-    "classId": "XII-2",
-    "gender": "L"
+    "id": "S0508",
+    "name": "Qori Lestari",
+    "nis": "20240508",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 27
   },
   {
-    "id": "S0515",
-    "name": "Budi Pratama",
-    "nis": "20240515",
-    "classId": "XII-2",
-    "gender": "L"
+    "id": "S0496",
+    "name": "Qori Nugroho",
+    "nis": "20240496",
+    "classId": "XII-1",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0516",
-    "name": "Hadi Saputra",
-    "nis": "20240516",
-    "classId": "XII-2",
-    "gender": "P"
+    "id": "S0492",
+    "name": "Reza Hidayat",
+    "nis": "20240492",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
-    "id": "S0517",
-    "name": "Siti Sari",
-    "nis": "20240517",
-    "classId": "XII-2",
-    "gender": "L"
+    "id": "S0486",
+    "name": "Siti Kusuma",
+    "nis": "20240486",
+    "classId": "XII-1",
+    "gender": "P",
+    "noAbsen": 30
   },
   {
-    "id": "S0518",
-    "name": "Siti Wijaya",
-    "nis": "20240518",
+    "id": "S0527",
+    "name": "Ahmad Lestari",
+    "nis": "20240527",
     "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0519",
-    "name": "Oka Wijaya",
-    "nis": "20240519",
-    "classId": "XII-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0520",
-    "name": "Nadia Wijaya",
-    "nis": "20240520",
-    "classId": "XII-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0521",
-    "name": "Dian Hidayat",
-    "nis": "20240521",
-    "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0522",
-    "name": "Muhammad Rahayu",
-    "nis": "20240522",
-    "classId": "XII-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0523",
-    "name": "Eka Gunawan",
+    "name": "Ahmad Wijaya",
     "nis": "20240523",
     "classId": "XII-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
-    "id": "S0524",
-    "name": "Budi Pratama",
-    "nis": "20240524",
+    "id": "S0532",
+    "name": "Budi Gunawan",
+    "nis": "20240532",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
-    "id": "S0525",
-    "name": "Joko Nugroho",
-    "nis": "20240525",
+    "id": "S0535",
+    "name": "Citra Lestari",
+    "nis": "20240535",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0529",
+    "name": "Citra Wijaya",
+    "nis": "20240529",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0538",
+    "name": "Dian Nugroho",
+    "nis": "20240538",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0522",
+    "name": "Dian Wijaya",
+    "nis": "20240522",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0517",
+    "name": "Fajar Nugroho",
+    "nis": "20240517",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
     "id": "S0526",
     "name": "Fajar Wijaya",
     "nis": "20240526",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 9
   },
   {
-    "id": "S0527",
-    "name": "Oka Wijaya",
-    "nis": "20240527",
+    "id": "S0521",
+    "name": "Gita Nugroho",
+    "nis": "20240521",
     "classId": "XII-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0516",
+    "name": "Gita Pratama",
+    "nis": "20240516",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 11
   },
   {
     "id": "S0528",
-    "name": "Muhammad Nugroho",
+    "name": "Gita Rahayu",
     "nis": "20240528",
     "classId": "XII-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 12
   },
   {
-    "id": "S0529",
-    "name": "Nadia Lestari",
-    "nis": "20240529",
+    "id": "S0515",
+    "name": "Gita Saputra",
+    "nis": "20240515",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0520",
+    "name": "Hadi Pratama",
+    "nis": "20240520",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0514",
+    "name": "Joko Gunawan",
+    "nis": "20240514",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 15
   },
   {
     "id": "S0530",
-    "name": "Gita Hidayat",
+    "name": "Joko Nugroho",
     "nis": "20240530",
     "classId": "XII-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0531",
-    "name": "Siti Hidayat",
-    "nis": "20240531",
-    "classId": "XII-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0532",
-    "name": "Lestari Hidayat",
-    "nis": "20240532",
-    "classId": "XII-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 16
   },
   {
     "id": "S0533",
-    "name": "Siti Pratama",
+    "name": "Lestari Kusuma",
     "nis": "20240533",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 17
   },
   {
-    "id": "S0534",
-    "name": "Budi Gunawan",
-    "nis": "20240534",
+    "id": "S0524",
+    "name": "Muhammad Pratama",
+    "nis": "20240524",
     "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0535",
-    "name": "Eka Kusuma",
-    "nis": "20240535",
-    "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0536",
-    "name": "Lestari Kusuma",
-    "nis": "20240536",
-    "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0537",
-    "name": "Putri Pratama",
-    "nis": "20240537",
-    "classId": "XII-2",
-    "gender": "L"
-  },
-  {
-    "id": "S0538",
-    "name": "Muhammad Lestari",
-    "nis": "20240538",
-    "classId": "XII-2",
-    "gender": "P"
-  },
-  {
-    "id": "S0539",
-    "name": "Nadia Wijaya",
-    "nis": "20240539",
-    "classId": "XII-2",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 18
   },
   {
     "id": "S0540",
-    "name": "Tari Kusuma",
+    "name": "Muhammad Wijaya",
     "nis": "20240540",
     "classId": "XII-2",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0541",
-    "name": "Hadi Wijaya",
-    "nis": "20240541",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0511",
+    "name": "Nadia Kusuma",
+    "nis": "20240511",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 20
   },
   {
-    "id": "S0542",
-    "name": "Oka Kusuma",
-    "nis": "20240542",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0513",
+    "name": "Nadia Rahayu",
+    "nis": "20240513",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 21
   },
   {
-    "id": "S0543",
-    "name": "Citra Gunawan",
-    "nis": "20240543",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0512",
+    "name": "Nadia Saputra",
+    "nis": "20240512",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 22
   },
   {
-    "id": "S0544",
-    "name": "Siti Gunawan",
-    "nis": "20240544",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0537",
+    "name": "Nadia Wijaya",
+    "nis": "20240537",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 23
   },
   {
-    "id": "S0545",
-    "name": "Ahmad Wijaya",
-    "nis": "20240545",
-    "classId": "XII-3",
-    "gender": "L"
+    "id": "S0539",
+    "name": "Oka Pratama",
+    "nis": "20240539",
+    "classId": "XII-2",
+    "gender": "P",
+    "noAbsen": 24
   },
   {
-    "id": "S0546",
-    "name": "Eka Hidayat",
-    "nis": "20240546",
-    "classId": "XII-3",
-    "gender": "L"
+    "id": "S0525",
+    "name": "Putri Rahayu",
+    "nis": "20240525",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 25
   },
   {
-    "id": "S0547",
+    "id": "S0518",
     "name": "Qori Nugroho",
-    "nis": "20240547",
-    "classId": "XII-3",
-    "gender": "L"
+    "nis": "20240518",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0548",
-    "name": "Eka Saputra",
-    "nis": "20240548",
-    "classId": "XII-3",
-    "gender": "L"
+    "id": "S0536",
+    "name": "Reza Wijaya",
+    "nis": "20240536",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 27
   },
   {
-    "id": "S0549",
-    "name": "Reza Saputra",
-    "nis": "20240549",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0519",
+    "name": "Siti Saputra",
+    "nis": "20240519",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0550",
-    "name": "Intan Saputra",
-    "nis": "20240550",
-    "classId": "XII-3",
-    "gender": "L"
+    "id": "S0534",
+    "name": "Siti Wijaya",
+    "nis": "20240534",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 29
   },
   {
-    "id": "S0551",
-    "name": "Oka Gunawan",
-    "nis": "20240551",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0552",
-    "name": "Muhammad Lestari",
-    "nis": "20240552",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0553",
-    "name": "Kartika Wijaya",
-    "nis": "20240553",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0554",
-    "name": "Oka Gunawan",
-    "nis": "20240554",
-    "classId": "XII-3",
-    "gender": "P"
+    "id": "S0531",
+    "name": "Tari Kusuma",
+    "nis": "20240531",
+    "classId": "XII-2",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0555",
-    "name": "Tari Gunawan",
+    "name": "Citra Lestari",
     "nis": "20240555",
     "classId": "XII-3",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
-    "id": "S0556",
-    "name": "Putri Nugroho",
-    "nis": "20240556",
+    "id": "S0546",
+    "name": "Citra Sari",
+    "nis": "20240546",
     "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0557",
-    "name": "Putri Wijaya",
-    "nis": "20240557",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0558",
-    "name": "Budi Nugroho",
-    "nis": "20240558",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0559",
-    "name": "Siti Rahayu",
-    "nis": "20240559",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0560",
-    "name": "Oka Pratama",
-    "nis": "20240560",
-    "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0561",
-    "name": "Siti Wijaya",
-    "nis": "20240561",
-    "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0562",
-    "name": "Putri Rahayu",
-    "nis": "20240562",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0563",
-    "name": "Eka Wijaya",
-    "nis": "20240563",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0564",
-    "name": "Fajar Nugroho",
-    "nis": "20240564",
-    "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0565",
-    "name": "Citra Gunawan",
-    "nis": "20240565",
-    "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0566",
-    "name": "Intan Gunawan",
-    "nis": "20240566",
-    "classId": "XII-3",
-    "gender": "P"
-  },
-  {
-    "id": "S0567",
-    "name": "Nadia Wijaya",
-    "nis": "20240567",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0568",
-    "name": "Oka Gunawan",
-    "nis": "20240568",
-    "classId": "XII-3",
-    "gender": "L"
-  },
-  {
-    "id": "S0569",
-    "name": "Qori Saputra",
-    "nis": "20240569",
-    "classId": "XII-3",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 2
   },
   {
     "id": "S0570",
-    "name": "Ahmad Sari",
+    "name": "Eka Rahayu",
     "nis": "20240570",
     "classId": "XII-3",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
-    "id": "S0571",
-    "name": "Eka Gunawan",
-    "nis": "20240571",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0557",
+    "name": "Eka Wijaya",
+    "nis": "20240557",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 4
   },
   {
-    "id": "S0572",
-    "name": "Nadia Rahayu",
-    "nis": "20240572",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0547",
+    "name": "Fajar Gunawan",
+    "nis": "20240547",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 5
   },
   {
-    "id": "S0573",
-    "name": "Dian Sari",
-    "nis": "20240573",
-    "classId": "XII-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0574",
-    "name": "Dian Lestari",
-    "nis": "20240574",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0575",
-    "name": "Nadia Wijaya",
-    "nis": "20240575",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0576",
-    "name": "Fajar Lestari",
-    "nis": "20240576",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0577",
-    "name": "Reza Hidayat",
-    "nis": "20240577",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0578",
-    "name": "Qori Wijaya",
-    "nis": "20240578",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0579",
-    "name": "Putri Kusuma",
-    "nis": "20240579",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0580",
-    "name": "Budi Kusuma",
-    "nis": "20240580",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0581",
-    "name": "Gita Hidayat",
-    "nis": "20240581",
-    "classId": "XII-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0582",
-    "name": "Joko Rahayu",
-    "nis": "20240582",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0583",
-    "name": "Fajar Kusuma",
-    "nis": "20240583",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0584",
-    "name": "Intan Pratama",
-    "nis": "20240584",
-    "classId": "XII-4",
-    "gender": "L"
-  },
-  {
-    "id": "S0585",
+    "id": "S0560",
     "name": "Gita Kusuma",
-    "nis": "20240585",
-    "classId": "XII-4",
-    "gender": "L"
+    "nis": "20240560",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 6
   },
   {
-    "id": "S0586",
-    "name": "Dian Sari",
-    "nis": "20240586",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0553",
+    "name": "Hadi Gunawan",
+    "nis": "20240553",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 7
   },
   {
-    "id": "S0587",
-    "name": "Qori Sari",
-    "nis": "20240587",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0566",
+    "name": "Intan Lestari",
+    "nis": "20240566",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 8
   },
   {
-    "id": "S0588",
-    "name": "Citra Nugroho",
-    "nis": "20240588",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0562",
+    "name": "Joko Gunawan",
+    "nis": "20240562",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0589",
-    "name": "Tari Wijaya",
-    "nis": "20240589",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0556",
+    "name": "Joko Sari",
+    "nis": "20240556",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 10
   },
   {
-    "id": "S0590",
-    "name": "Hadi Wijaya",
-    "nis": "20240590",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0541",
+    "name": "Kartika Gunawan",
+    "nis": "20240541",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 11
   },
   {
-    "id": "S0591",
-    "name": "Lestari Kusuma",
-    "nis": "20240591",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0563",
+    "name": "Kartika Gunawan",
+    "nis": "20240563",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 12
   },
   {
-    "id": "S0592",
-    "name": "Reza Saputra",
-    "nis": "20240592",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0561",
+    "name": "Muhammad Kusuma",
+    "nis": "20240561",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0593",
-    "name": "Citra Kusuma",
-    "nis": "20240593",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0559",
+    "name": "Muhammad Lestari",
+    "nis": "20240559",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 14
   },
   {
-    "id": "S0594",
-    "name": "Siti Gunawan",
-    "nis": "20240594",
-    "classId": "XII-4",
-    "gender": "P"
-  },
-  {
-    "id": "S0595",
+    "id": "S0550",
     "name": "Muhammad Nugroho",
-    "nis": "20240595",
-    "classId": "XII-4",
-    "gender": "L"
+    "nis": "20240550",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0596",
-    "name": "Lestari Nugroho",
-    "nis": "20240596",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0545",
+    "name": "Nadia Lestari",
+    "nis": "20240545",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 16
   },
   {
-    "id": "S0597",
-    "name": "Ahmad Lestari",
-    "nis": "20240597",
-    "classId": "XII-4",
-    "gender": "P"
+    "id": "S0564",
+    "name": "Nadia Lestari",
+    "nis": "20240564",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 17
   },
   {
-    "id": "S0598",
-    "name": "Intan Pratama",
-    "nis": "20240598",
-    "classId": "XII-4",
-    "gender": "L"
+    "id": "S0542",
+    "name": "Nadia Pratama",
+    "nis": "20240542",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0565",
+    "name": "Oka Gunawan",
+    "nis": "20240565",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0567",
+    "name": "Oka Lestari",
+    "nis": "20240567",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0569",
+    "name": "Oka Rahayu",
+    "nis": "20240569",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0568",
+    "name": "Qori Pratama",
+    "nis": "20240568",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0543",
+    "name": "Qori Saputra",
+    "nis": "20240543",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0552",
+    "name": "Reza Rahayu",
+    "nis": "20240552",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0558",
+    "name": "Reza Saputra",
+    "nis": "20240558",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0551",
+    "name": "Reza Sari",
+    "nis": "20240551",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0548",
+    "name": "Reza Wijaya",
+    "nis": "20240548",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0554",
+    "name": "Siti Hidayat",
+    "nis": "20240554",
+    "classId": "XII-3",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0549",
+    "name": "Siti Lestari",
+    "nis": "20240549",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0544",
+    "name": "Siti Nugroho",
+    "nis": "20240544",
+    "classId": "XII-3",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0599",
-    "name": "Muhammad Wijaya",
+    "name": "Ahmad Gunawan",
     "nis": "20240599",
     "classId": "XII-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0594",
+    "name": "Ahmad Lestari",
+    "nis": "20240594",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0573",
+    "name": "Ahmad Nugroho",
+    "nis": "20240573",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0576",
+    "name": "Citra Kusuma",
+    "nis": "20240576",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0586",
+    "name": "Citra Sari",
+    "nis": "20240586",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0585",
+    "name": "Dian Saputra",
+    "nis": "20240585",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0598",
+    "name": "Dian Saputra",
+    "nis": "20240598",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0579",
+    "name": "Eka Gunawan",
+    "nis": "20240579",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0595",
+    "name": "Eka Kusuma",
+    "nis": "20240595",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0571",
+    "name": "Fajar Hidayat",
+    "nis": "20240571",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0581",
+    "name": "Gita Pratama",
+    "nis": "20240581",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0592",
+    "name": "Gita Saputra",
+    "nis": "20240592",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0580",
+    "name": "Gita Wijaya",
+    "nis": "20240580",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0575",
+    "name": "Hadi Gunawan",
+    "nis": "20240575",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0597",
+    "name": "Hadi Lestari",
+    "nis": "20240597",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0587",
+    "name": "Hadi Saputra",
+    "nis": "20240587",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0588",
+    "name": "Intan Lestari",
+    "nis": "20240588",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0578",
+    "name": "Intan Saputra",
+    "nis": "20240578",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0572",
+    "name": "Joko Wijaya",
+    "nis": "20240572",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0582",
+    "name": "Lestari Gunawan",
+    "nis": "20240582",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0591",
+    "name": "Lestari Nugroho",
+    "nis": "20240591",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0589",
+    "name": "Muhammad Hidayat",
+    "nis": "20240589",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0577",
+    "name": "Muhammad Rahayu",
+    "nis": "20240577",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0574",
+    "name": "Nadia Pratama",
+    "nis": "20240574",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0583",
+    "name": "Putri Pratama",
+    "nis": "20240583",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0590",
+    "name": "Qori Kusuma",
+    "nis": "20240590",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0593",
+    "name": "Reza Hidayat",
+    "nis": "20240593",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0584",
+    "name": "Reza Kusuma",
+    "nis": "20240584",
+    "classId": "XII-4",
+    "gender": "L",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0596",
+    "name": "Reza Pratama",
+    "nis": "20240596",
+    "classId": "XII-4",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
     "id": "S0600",
-    "name": "Putri Gunawan",
+    "name": "Reza Rahayu",
     "nis": "20240600",
     "classId": "XII-4",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0601",
-    "name": "Muhammad Lestari",
+    "name": "Ahmad Hidayat",
     "nis": "20240601",
     "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0602",
-    "name": "Muhammad Kusuma",
-    "nis": "20240602",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0603",
-    "name": "Nadia Rahayu",
-    "nis": "20240603",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0604",
-    "name": "Citra Saputra",
-    "nis": "20240604",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0605",
-    "name": "Ahmad Pratama",
-    "nis": "20240605",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0606",
-    "name": "Lestari Nugroho",
-    "nis": "20240606",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0607",
-    "name": "Ahmad Hidayat",
-    "nis": "20240607",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0608",
-    "name": "Budi Lestari",
-    "nis": "20240608",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0609",
-    "name": "Hadi Saputra",
-    "nis": "20240609",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0610",
-    "name": "Hadi Lestari",
-    "nis": "20240610",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0611",
-    "name": "Nadia Hidayat",
-    "nis": "20240611",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0612",
-    "name": "Oka Sari",
-    "nis": "20240612",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0613",
-    "name": "Putri Gunawan",
-    "nis": "20240613",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0614",
-    "name": "Gita Wijaya",
-    "nis": "20240614",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0615",
-    "name": "Lestari Rahayu",
-    "nis": "20240615",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0616",
-    "name": "Intan Lestari",
-    "nis": "20240616",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0617",
-    "name": "Oka Kusuma",
-    "nis": "20240617",
-    "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0618",
-    "name": "Nadia Gunawan",
-    "nis": "20240618",
-    "classId": "XII-5",
-    "gender": "P"
-  },
-  {
-    "id": "S0619",
-    "name": "Intan Kusuma",
-    "nis": "20240619",
-    "classId": "XII-5",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 1
   },
   {
     "id": "S0620",
-    "name": "Oka Gunawan",
+    "name": "Ahmad Nugroho",
     "nis": "20240620",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
-    "id": "S0621",
-    "name": "Tari Nugroho",
-    "nis": "20240621",
+    "id": "S0618",
+    "name": "Budi Gunawan",
+    "nis": "20240618",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0613",
+    "name": "Budi Lestari",
+    "nis": "20240613",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0614",
+    "name": "Budi Pratama",
+    "nis": "20240614",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 5
   },
   {
     "id": "S0622",
-    "name": "Tari Rahayu",
+    "name": "Budi Pratama",
     "nis": "20240622",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 6
   },
   {
-    "id": "S0623",
-    "name": "Joko Sari",
-    "nis": "20240623",
+    "id": "S0607",
+    "name": "Dian Nugroho",
+    "nis": "20240607",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 7
   },
   {
-    "id": "S0624",
-    "name": "Budi Kusuma",
-    "nis": "20240624",
+    "id": "S0606",
+    "name": "Eka Saputra",
+    "nis": "20240606",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 8
   },
   {
-    "id": "S0625",
-    "name": "Fajar Pratama",
-    "nis": "20240625",
+    "id": "S0603",
+    "name": "Fajar Lestari",
+    "nis": "20240603",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 9
   },
   {
-    "id": "S0626",
-    "name": "Nadia Kusuma",
-    "nis": "20240626",
+    "id": "S0611",
+    "name": "Fajar Lestari",
+    "nis": "20240611",
     "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0627",
-    "name": "Joko Hidayat",
-    "nis": "20240627",
-    "classId": "XII-5",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 10
   },
   {
     "id": "S0628",
-    "name": "Gita Pratama",
+    "name": "Gita Gunawan",
     "nis": "20240628",
     "classId": "XII-5",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0626",
+    "name": "Gita Kusuma",
+    "nis": "20240626",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0624",
+    "name": "Gita Lestari",
+    "nis": "20240624",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0615",
+    "name": "Gita Pratama",
+    "nis": "20240615",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0621",
+    "name": "Hadi Kusuma",
+    "nis": "20240621",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0612",
+    "name": "Intan Nugroho",
+    "nis": "20240612",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0617",
+    "name": "Intan Saputra",
+    "nis": "20240617",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0605",
+    "name": "Joko Lestari",
+    "nis": "20240605",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0602",
+    "name": "Kartika Hidayat",
+    "nis": "20240602",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0619",
+    "name": "Kartika Kusuma",
+    "nis": "20240619",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0604",
+    "name": "Lestari Gunawan",
+    "nis": "20240604",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0610",
+    "name": "Lestari Kusuma",
+    "nis": "20240610",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 22
   },
   {
     "id": "S0629",
-    "name": "Qori Gunawan",
+    "name": "Muhammad Kusuma",
     "nis": "20240629",
     "classId": "XII-5",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0627",
+    "name": "Muhammad Sari",
+    "nis": "20240627",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0609",
+    "name": "Nadia Saputra",
+    "nis": "20240609",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0616",
+    "name": "Oka Hidayat",
+    "nis": "20240616",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0623",
+    "name": "Oka Nugroho",
+    "nis": "20240623",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0608",
+    "name": "Qori Lestari",
+    "nis": "20240608",
+    "classId": "XII-5",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0625",
+    "name": "Tari Gunawan",
+    "nis": "20240625",
+    "classId": "XII-5",
+    "gender": "L",
+    "noAbsen": 29
   },
   {
     "id": "S0630",
-    "name": "Qori Nugroho",
+    "name": "Tari Wijaya",
     "nis": "20240630",
     "classId": "XII-5",
-    "gender": "L"
-  },
-  {
-    "id": "S0631",
-    "name": "Gita Kusuma",
-    "nis": "20240631",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0632",
-    "name": "Kartika Kusuma",
-    "nis": "20240632",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0633",
-    "name": "Intan Saputra",
-    "nis": "20240633",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0634",
-    "name": "Reza Nugroho",
-    "nis": "20240634",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0635",
-    "name": "Dian Pratama",
-    "nis": "20240635",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0636",
-    "name": "Intan Gunawan",
-    "nis": "20240636",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0637",
-    "name": "Joko Nugroho",
-    "nis": "20240637",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0638",
-    "name": "Dian Wijaya",
-    "nis": "20240638",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0639",
-    "name": "Muhammad Gunawan",
-    "nis": "20240639",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0640",
-    "name": "Putri Lestari",
-    "nis": "20240640",
-    "classId": "XII-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0641",
-    "name": "Ahmad Nugroho",
+    "name": "Ahmad Lestari",
     "nis": "20240641",
     "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0642",
-    "name": "Tari Lestari",
-    "nis": "20240642",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0643",
-    "name": "Dian Lestari",
-    "nis": "20240643",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0644",
-    "name": "Qori Saputra",
-    "nis": "20240644",
-    "classId": "XII-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 1
   },
   {
     "id": "S0645",
-    "name": "Oka Saputra",
+    "name": "Ahmad Rahayu",
     "nis": "20240645",
     "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0646",
-    "name": "Budi Lestari",
-    "nis": "20240646",
-    "classId": "XII-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 2
   },
   {
     "id": "S0647",
-    "name": "Budi Sari",
+    "name": "Ahmad Wijaya",
     "nis": "20240647",
     "classId": "XII-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 3
   },
   {
-    "id": "S0648",
-    "name": "Siti Hidayat",
-    "nis": "20240648",
+    "id": "S0646",
+    "name": "Budi Pratama",
+    "nis": "20240646",
     "classId": "XII-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 4
   },
   {
-    "id": "S0649",
-    "name": "Kartika Gunawan",
-    "nis": "20240649",
+    "id": "S0642",
+    "name": "Citra Kusuma",
+    "nis": "20240642",
     "classId": "XII-6",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 5
   },
   {
-    "id": "S0650",
-    "name": "Muhammad Wijaya",
-    "nis": "20240650",
+    "id": "S0644",
+    "name": "Citra Pratama",
+    "nis": "20240644",
     "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0651",
-    "name": "Kartika Sari",
-    "nis": "20240651",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0652",
-    "name": "Budi Rahayu",
-    "nis": "20240652",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0653",
-    "name": "Kartika Gunawan",
-    "nis": "20240653",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0654",
-    "name": "Joko Saputra",
-    "nis": "20240654",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0655",
-    "name": "Citra Gunawan",
-    "nis": "20240655",
-    "classId": "XII-6",
-    "gender": "P"
-  },
-  {
-    "id": "S0656",
-    "name": "Joko Sari",
-    "nis": "20240656",
-    "classId": "XII-6",
-    "gender": "L"
-  },
-  {
-    "id": "S0657",
-    "name": "Muhammad Gunawan",
-    "nis": "20240657",
-    "classId": "XII-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 6
   },
   {
     "id": "S0658",
-    "name": "Dian Gunawan",
+    "name": "Citra Sari",
     "nis": "20240658",
     "classId": "XII-6",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 7
   },
   {
-    "id": "S0659",
-    "name": "Putri Gunawan",
-    "nis": "20240659",
+    "id": "S0635",
+    "name": "Dian Hidayat",
+    "nis": "20240635",
     "classId": "XII-6",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0633",
+    "name": "Dian Pratama",
+    "nis": "20240633",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0650",
+    "name": "Dian Sari",
+    "nis": "20240650",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0656",
+    "name": "Eka Rahayu",
+    "nis": "20240656",
+    "classId": "XII-6",
+    "gender": "L",
+    "noAbsen": 11
   },
   {
     "id": "S0660",
-    "name": "Budi Wijaya",
+    "name": "Fajar Rahayu",
     "nis": "20240660",
     "classId": "XII-6",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 12
   },
   {
-    "id": "S0661",
-    "name": "Dian Lestari",
-    "nis": "20240661",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0659",
+    "name": "Fajar Saputra",
+    "nis": "20240659",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 13
   },
   {
-    "id": "S0662",
-    "name": "Budi Gunawan",
-    "nis": "20240662",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0651",
+    "name": "Fajar Sari",
+    "nis": "20240651",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 14
   },
   {
-    "id": "S0663",
-    "name": "Lestari Wijaya",
-    "nis": "20240663",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0652",
+    "name": "Hadi Saputra",
+    "nis": "20240652",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 15
   },
   {
-    "id": "S0664",
-    "name": "Intan Lestari",
-    "nis": "20240664",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0632",
+    "name": "Joko Rahayu",
+    "nis": "20240632",
+    "classId": "XII-6",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0665",
-    "name": "Tari Kusuma",
-    "nis": "20240665",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0649",
+    "name": "Joko Saputra",
+    "nis": "20240649",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0666",
-    "name": "Muhammad Saputra",
-    "nis": "20240666",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0643",
+    "name": "Lestari Pratama",
+    "nis": "20240643",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 18
   },
   {
-    "id": "S0667",
-    "name": "Siti Hidayat",
-    "nis": "20240667",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0653",
+    "name": "Muhammad Kusuma",
+    "nis": "20240653",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0668",
-    "name": "Eka Hidayat",
-    "nis": "20240668",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0638",
+    "name": "Muhammad Pratama",
+    "nis": "20240638",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 20
   },
   {
-    "id": "S0669",
-    "name": "Oka Nugroho",
-    "nis": "20240669",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0648",
+    "name": "Nadia Hidayat",
+    "nis": "20240648",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 21
   },
   {
-    "id": "S0670",
-    "name": "Putri Pratama",
-    "nis": "20240670",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0631",
+    "name": "Putri Kusuma",
+    "nis": "20240631",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 22
   },
   {
-    "id": "S0671",
-    "name": "Budi Hidayat",
-    "nis": "20240671",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0655",
+    "name": "Qori Hidayat",
+    "nis": "20240655",
+    "classId": "XII-6",
+    "gender": "L",
+    "noAbsen": 23
   },
   {
-    "id": "S0672",
-    "name": "Hadi Sari",
-    "nis": "20240672",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0639",
+    "name": "Qori Pratama",
+    "nis": "20240639",
+    "classId": "XII-6",
+    "gender": "L",
+    "noAbsen": 24
   },
   {
-    "id": "S0673",
-    "name": "Dian Kusuma",
-    "nis": "20240673",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0640",
+    "name": "Reza Gunawan",
+    "nis": "20240640",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0674",
-    "name": "Siti Hidayat",
-    "nis": "20240674",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0657",
+    "name": "Reza Kusuma",
+    "nis": "20240657",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 26
   },
   {
-    "id": "S0675",
-    "name": "Oka Lestari",
-    "nis": "20240675",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0636",
+    "name": "Siti Gunawan",
+    "nis": "20240636",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 27
   },
   {
-    "id": "S0676",
-    "name": "Lestari Sari",
-    "nis": "20240676",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0654",
+    "name": "Siti Lestari",
+    "nis": "20240654",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 28
   },
   {
-    "id": "S0677",
-    "name": "Tari Rahayu",
-    "nis": "20240677",
-    "classId": "XII-7",
-    "gender": "L"
+    "id": "S0634",
+    "name": "Siti Nugroho",
+    "nis": "20240634",
+    "classId": "XII-6",
+    "gender": "P",
+    "noAbsen": 29
   },
   {
-    "id": "S0678",
-    "name": "Hadi Sari",
-    "nis": "20240678",
-    "classId": "XII-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0679",
-    "name": "Ahmad Wijaya",
-    "nis": "20240679",
-    "classId": "XII-7",
-    "gender": "L"
-  },
-  {
-    "id": "S0680",
-    "name": "Citra Wijaya",
-    "nis": "20240680",
-    "classId": "XII-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0681",
-    "name": "Budi Hidayat",
-    "nis": "20240681",
-    "classId": "XII-7",
-    "gender": "P"
+    "id": "S0637",
+    "name": "Siti Saputra",
+    "nis": "20240637",
+    "classId": "XII-6",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0682",
-    "name": "Reza Gunawan",
+    "name": "Ahmad Pratama",
     "nis": "20240682",
     "classId": "XII-7",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0668",
+    "name": "Ahmad Wijaya",
+    "nis": "20240668",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0678",
+    "name": "Budi Gunawan",
+    "nis": "20240678",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0670",
+    "name": "Gita Rahayu",
+    "nis": "20240670",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0675",
+    "name": "Hadi Hidayat",
+    "nis": "20240675",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 5
   },
   {
     "id": "S0683",
-    "name": "Hadi Wijaya",
+    "name": "Hadi Nugroho",
     "nis": "20240683",
     "classId": "XII-7",
-    "gender": "L"
+    "gender": "P",
+    "noAbsen": 6
   },
   {
-    "id": "S0684",
-    "name": "Qori Rahayu",
-    "nis": "20240684",
+    "id": "S0661",
+    "name": "Hadi Pratama",
+    "nis": "20240661",
     "classId": "XII-7",
-    "gender": "P"
-  },
-  {
-    "id": "S0685",
-    "name": "Putri Kusuma",
-    "nis": "20240685",
-    "classId": "XII-7",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 7
   },
   {
     "id": "S0686",
-    "name": "Kartika Gunawan",
+    "name": "Kartika Hidayat",
     "nis": "20240686",
     "classId": "XII-7",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0677",
+    "name": "Kartika Saputra",
+    "nis": "20240677",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0681",
+    "name": "Kartika Sari",
+    "nis": "20240681",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 10
   },
   {
     "id": "S0687",
-    "name": "Lestari Saputra",
+    "name": "Kartika Wijaya",
     "nis": "20240687",
     "classId": "XII-7",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 11
   },
   {
-    "id": "S0688",
-    "name": "Nadia Saputra",
-    "nis": "20240688",
+    "id": "S0663",
+    "name": "Lestari Kusuma",
+    "nis": "20240663",
     "classId": "XII-7",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 12
   },
   {
-    "id": "S0689",
-    "name": "Kartika Sari",
-    "nis": "20240689",
+    "id": "S0680",
+    "name": "Muhammad Hidayat",
+    "nis": "20240680",
     "classId": "XII-7",
-    "gender": "P"
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0665",
+    "name": "Muhammad Saputra",
+    "nis": "20240665",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 14
   },
   {
     "id": "S0690",
-    "name": "Reza Wijaya",
+    "name": "Nadia Hidayat",
     "nis": "20240690",
     "classId": "XII-7",
-    "gender": "L"
+    "gender": "L",
+    "noAbsen": 15
   },
   {
-    "id": "S0691",
-    "name": "Ahmad Rahayu",
-    "nis": "20240691",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0676",
+    "name": "Nadia Pratama",
+    "nis": "20240676",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 16
   },
   {
-    "id": "S0692",
-    "name": "Ahmad Saputra",
-    "nis": "20240692",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0684",
+    "name": "Oka Nugroho",
+    "nis": "20240684",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 17
   },
   {
-    "id": "S0693",
-    "name": "Citra Hidayat",
-    "nis": "20240693",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0664",
+    "name": "Oka Pratama",
+    "nis": "20240664",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 18
   },
   {
-    "id": "S0694",
-    "name": "Tari Kusuma",
-    "nis": "20240694",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0669",
+    "name": "Putri Lestari",
+    "nis": "20240669",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 19
   },
   {
-    "id": "S0695",
-    "name": "Hadi Sari",
-    "nis": "20240695",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0685",
+    "name": "Putri Pratama",
+    "nis": "20240685",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 20
   },
   {
-    "id": "S0696",
-    "name": "Joko Lestari",
-    "nis": "20240696",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0662",
+    "name": "Putri Rahayu",
+    "nis": "20240662",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 21
   },
   {
-    "id": "S0697",
-    "name": "Reza Rahayu",
-    "nis": "20240697",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0671",
+    "name": "Qori Kusuma",
+    "nis": "20240671",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 22
   },
   {
-    "id": "S0698",
-    "name": "Hadi Gunawan",
-    "nis": "20240698",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0672",
+    "name": "Qori Nugroho",
+    "nis": "20240672",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 23
   },
   {
-    "id": "S0699",
-    "name": "Budi Lestari",
-    "nis": "20240699",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0700",
+    "id": "S0667",
     "name": "Qori Sari",
-    "nis": "20240700",
-    "classId": "XII-8",
-    "gender": "L"
+    "nis": "20240667",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 24
   },
   {
-    "id": "S0701",
-    "name": "Joko Saputra",
-    "nis": "20240701",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0674",
+    "name": "Reza Saputra",
+    "nis": "20240674",
+    "classId": "XII-7",
+    "gender": "P",
+    "noAbsen": 25
   },
   {
-    "id": "S0702",
-    "name": "Budi Gunawan",
-    "nis": "20240702",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0689",
+    "name": "Siti Hidayat",
+    "nis": "20240689",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 26
   },
   {
-    "id": "S0703",
-    "name": "Ahmad Rahayu",
-    "nis": "20240703",
-    "classId": "XII-8",
-    "gender": "L"
+    "id": "S0688",
+    "name": "Siti Lestari",
+    "nis": "20240688",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 27
   },
   {
-    "id": "S0704",
-    "name": "Gita Sari",
-    "nis": "20240704",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0679",
+    "name": "Tari Kusuma",
+    "nis": "20240679",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 28
   },
   {
-    "id": "S0705",
-    "name": "Fajar Nugroho",
-    "nis": "20240705",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0666",
+    "name": "Tari Pratama",
+    "nis": "20240666",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 29
   },
   {
-    "id": "S0706",
-    "name": "Oka Sari",
-    "nis": "20240706",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0707",
-    "name": "Eka Pratama",
-    "nis": "20240707",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0708",
-    "name": "Gita Saputra",
-    "nis": "20240708",
-    "classId": "XII-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0709",
-    "name": "Eka Pratama",
-    "nis": "20240709",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0710",
-    "name": "Tari Gunawan",
-    "nis": "20240710",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0711",
-    "name": "Oka Hidayat",
-    "nis": "20240711",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0712",
-    "name": "Nadia Lestari",
-    "nis": "20240712",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0713",
-    "name": "Lestari Hidayat",
-    "nis": "20240713",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0714",
-    "name": "Eka Lestari",
-    "nis": "20240714",
-    "classId": "XII-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0715",
-    "name": "Reza Wijaya",
-    "nis": "20240715",
-    "classId": "XII-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0716",
-    "name": "Gita Pratama",
-    "nis": "20240716",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0717",
-    "name": "Joko Pratama",
-    "nis": "20240717",
-    "classId": "XII-8",
-    "gender": "P"
-  },
-  {
-    "id": "S0718",
-    "name": "Lestari Hidayat",
-    "nis": "20240718",
-    "classId": "XII-8",
-    "gender": "L"
-  },
-  {
-    "id": "S0719",
-    "name": "Joko Pratama",
-    "nis": "20240719",
-    "classId": "XII-8",
-    "gender": "P"
+    "id": "S0673",
+    "name": "Tari Rahayu",
+    "nis": "20240673",
+    "classId": "XII-7",
+    "gender": "L",
+    "noAbsen": 30
   },
   {
     "id": "S0720",
-    "name": "Lestari Hidayat",
+    "name": "Ahmad Saputra",
     "nis": "20240720",
     "classId": "XII-8",
-    "gender": "P"
+    "gender": "P",
+    "noAbsen": 1
+  },
+  {
+    "id": "S0718",
+    "name": "Ahmad Wijaya",
+    "nis": "20240718",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 2
+  },
+  {
+    "id": "S0696",
+    "name": "Budi Rahayu",
+    "nis": "20240696",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 3
+  },
+  {
+    "id": "S0698",
+    "name": "Budi Wijaya",
+    "nis": "20240698",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 4
+  },
+  {
+    "id": "S0701",
+    "name": "Citra Rahayu",
+    "nis": "20240701",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 5
+  },
+  {
+    "id": "S0711",
+    "name": "Fajar Pratama",
+    "nis": "20240711",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 6
+  },
+  {
+    "id": "S0713",
+    "name": "Fajar Wijaya",
+    "nis": "20240713",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 7
+  },
+  {
+    "id": "S0692",
+    "name": "Gita Lestari",
+    "nis": "20240692",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 8
+  },
+  {
+    "id": "S0699",
+    "name": "Gita Wijaya",
+    "nis": "20240699",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 9
+  },
+  {
+    "id": "S0704",
+    "name": "Intan Hidayat",
+    "nis": "20240704",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 10
+  },
+  {
+    "id": "S0706",
+    "name": "Intan Hidayat",
+    "nis": "20240706",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 11
+  },
+  {
+    "id": "S0707",
+    "name": "Joko Saputra",
+    "nis": "20240707",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 12
+  },
+  {
+    "id": "S0697",
+    "name": "Joko Sari",
+    "nis": "20240697",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 13
+  },
+  {
+    "id": "S0694",
+    "name": "Kartika Hidayat",
+    "nis": "20240694",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 14
+  },
+  {
+    "id": "S0712",
+    "name": "Kartika Lestari",
+    "nis": "20240712",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 15
+  },
+  {
+    "id": "S0703",
+    "name": "Muhammad Hidayat",
+    "nis": "20240703",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 16
+  },
+  {
+    "id": "S0702",
+    "name": "Muhammad Kusuma",
+    "nis": "20240702",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 17
+  },
+  {
+    "id": "S0700",
+    "name": "Muhammad Pratama",
+    "nis": "20240700",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 18
+  },
+  {
+    "id": "S0709",
+    "name": "Muhammad Wijaya",
+    "nis": "20240709",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 19
+  },
+  {
+    "id": "S0708",
+    "name": "Nadia Hidayat",
+    "nis": "20240708",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 20
+  },
+  {
+    "id": "S0716",
+    "name": "Nadia Nugroho",
+    "nis": "20240716",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 21
+  },
+  {
+    "id": "S0717",
+    "name": "Oka Nugroho",
+    "nis": "20240717",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 22
+  },
+  {
+    "id": "S0691",
+    "name": "Oka Rahayu",
+    "nis": "20240691",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 23
+  },
+  {
+    "id": "S0715",
+    "name": "Putri Pratama",
+    "nis": "20240715",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 24
+  },
+  {
+    "id": "S0695",
+    "name": "Qori Gunawan",
+    "nis": "20240695",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 25
+  },
+  {
+    "id": "S0714",
+    "name": "Reza Hidayat",
+    "nis": "20240714",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 26
+  },
+  {
+    "id": "S0693",
+    "name": "Reza Pratama",
+    "nis": "20240693",
+    "classId": "XII-8",
+    "gender": "L",
+    "noAbsen": 27
+  },
+  {
+    "id": "S0710",
+    "name": "Reza Wijaya",
+    "nis": "20240710",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 28
+  },
+  {
+    "id": "S0719",
+    "name": "Siti Nugroho",
+    "nis": "20240719",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 29
+  },
+  {
+    "id": "S0705",
+    "name": "Tari Kusuma",
+    "nis": "20240705",
+    "classId": "XII-8",
+    "gender": "P",
+    "noAbsen": 30
   }
 ]

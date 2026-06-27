@@ -124,8 +124,10 @@ const seedStudents = (classes) => {
     let studentIdCounter = 1;
 
     classes.forEach(cls => {
+        // Generate students for this class
+        const classStudents = [];
         for (let i = 0; i < 30; i++) {
-            students.push({
+            classStudents.push({
                 id: `S${String(studentIdCounter).padStart(4, '0')}`,
                 name: generateName(),
                 nis: `2024${String(studentIdCounter).padStart(4, '0')}`,
@@ -134,6 +136,12 @@ const seedStudents = (classes) => {
             });
             studentIdCounter++;
         }
+        // Sort alphabetically by name, then assign noAbsen
+        classStudents.sort((a, b) => a.name.localeCompare(b.name, 'id'));
+        classStudents.forEach((s, idx) => {
+            s.noAbsen = idx + 1;
+        });
+        students.push(...classStudents);
     });
 
     return students;

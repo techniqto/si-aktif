@@ -6,22 +6,24 @@ window.Calendar = {
     currentDate: new Date(),
     selectedDate: new Date(),
     teacherId: null, // If admin, this holds the selected teacher
+    currentUser: null,
     
     dailyData: [],
     mapelData: [],
     allClasses: [],
+    allUsers: [],
 
     renderCalendar: async (user) => {
+        window.Calendar.currentUser = user;
         const container = document.getElementById('page-calendar');
         
         let html = `
-            <div class="calendar-header-actions">
-                <h2 class="font-heading">Kalender Absensi</h2>
+            <div class="calendar-header-actions" style="margin-bottom: 1.5rem; display: flex; justify-content: flex-end;">
                 ${user.role === 'admin' ? `
                     <div style="display: flex; gap: 1rem; align-items: center;">
                         <label style="font-size: 0.875rem; color: var(--color-text-light);">Lihat Absensi Guru:</label>
                         <select id="calendar-teacher-select" class="form-control" style="width: 250px;">
-                            <option value="">-- Pilih Guru --</option>
+                            <option value="">-- Semua Guru --</option>
                         </select>
                     </div>
                 ` : ''}
@@ -70,11 +72,11 @@ window.Calendar = {
         window.Calendar.allClasses = await window.DB.getClasses();
         window.Calendar.dailyData = await window.DB.getAttendanceDaily();
         window.Calendar.mapelData = await window.DB.getAttendanceSubject();
+        window.Calendar.allUsers = await window.DB.getUsers();
 
         if (user.role === 'admin') {
-            const users = await window.DB.getUsers();
-            const teachers = users.filter(u => u.role === 'teacher');
             const select = document.getElementById('calendar-teacher-select');
+            const teachers = window.Calendar.allUsers.filter(u => u.role === 'guru' || u.role === 'teacher');
             teachers.forEach(t => {
                 const opt = document.createElement('option');
                 opt.value = t.id;
@@ -137,6 +139,9 @@ window.Calendar = {
             if (teacherId) {
                 hasDaily = window.Calendar.dailyData.some(d => d.date === dateString && d.waliKelasId === teacherId);
                 hasMapel = window.Calendar.mapelData.some(d => d.date === dateString && d.teacherId === teacherId);
+            } else if (window.Calendar.currentUser && window.Calendar.currentUser.role === 'admin') {
+                hasDaily = window.Calendar.dailyData.some(d => d.date === dateString);
+                hasMapel = window.Calendar.mapelData.some(d => d.date === dateString);
             }
 
             const cell = window.Calendar.createDayCell(i, false, cellDate, hasDaily, hasMapel);
@@ -204,18 +209,24 @@ window.Calendar = {
 
         listEl.innerHTML = '';
 
-        if (!window.Calendar.teacherId) {
-            countEl.textContent = 'PILIH GURU TERLEBIH DAHULU';
-            listEl.innerHTML = '<p style="color: var(--color-text-light); font-size: 0.875rem;">Silakan pilih nama guru pada dropdown di atas untuk melihat riwayat absensi.</p>';
-            return;
-        }
-
         const dateString = window.Calendar.selectedDate.toISOString().split('T')[0];
         const teacherId = window.Calendar.teacherId;
 
         // Find events
-        const dailyEvents = window.Calendar.dailyData.filter(d => d.date === dateString && d.waliKelasId === teacherId);
-        const mapelEvents = window.Calendar.mapelData.filter(d => d.date === dateString && d.teacherId === teacherId);
+        let dailyEvents = [];
+        let mapelEvents = [];
+
+        if (teacherId) {
+            dailyEvents = window.Calendar.dailyData.filter(d => d.date === dateString && d.waliKelasId === teacherId);
+            mapelEvents = window.Calendar.mapelData.filter(d => d.date === dateString && d.teacherId === teacherId);
+        } else if (window.Calendar.currentUser && window.Calendar.currentUser.role === 'admin') {
+            dailyEvents = window.Calendar.dailyData.filter(d => d.date === dateString);
+            mapelEvents = window.Calendar.mapelData.filter(d => d.date === dateString);
+        } else {
+            countEl.textContent = 'PILIH GURU TERLEBIH DAHULU';
+            listEl.innerHTML = '<p style="color: var(--color-text-light); font-size: 0.875rem;">Silakan pilih nama guru pada dropdown di atas untuk melihat riwayat absensi.</p>';
+            return;
+        }
 
         let totalEvents = dailyEvents.length + mapelEvents.length;
         countEl.textContent = `${totalEvents} EVENT(S) LOGGED`;
@@ -225,16 +236,25 @@ window.Calendar = {
             return;
         }
 
+        // Helper to find teacher name
+        const getTeacherName = (tId) => {
+            if (!window.Calendar.allUsers) return tId;
+            const t = window.Calendar.allUsers.find(u => u.id === tId || u.kodeGuru === tId);
+            return t ? t.name : tId;
+        };
+
         // Render Daily
         dailyEvents.forEach(ev => {
             const classObj = window.Calendar.allClasses.find(c => c.id === ev.classId);
             const className = classObj ? classObj.name : ev.classId;
+            const teacherName = getTeacherName(ev.waliKelasId);
             
             const item = document.createElement('div');
             item.className = 'calendar-event-item';
             item.innerHTML = `
                 <h4>Absensi Wali Kelas</h4>
-                <p>Kelas: ${className}</p>
+                <p>Kelas: <strong>${className}</strong></p>
+                <p>Oleh Guru: <strong>${teacherName}</strong></p>
                 <p>Jumlah Siswa: ${ev.records.length} Diabsen</p>
             `;
             listEl.appendChild(item);
@@ -244,13 +264,16 @@ window.Calendar = {
         mapelEvents.forEach(ev => {
             const classObj = window.Calendar.allClasses.find(c => c.id === ev.classId);
             const className = classObj ? classObj.name : ev.classId;
+            const teacherName = getTeacherName(ev.teacherId);
             
             const item = document.createElement('div');
             item.className = 'calendar-event-item';
             item.style.borderLeftColor = 'var(--color-indigo)'; // differentiate color
             item.innerHTML = `
                 <h4>Absensi Mata Pelajaran</h4>
-                <p>Kelas: ${className} | Jam ke-${ev.jamKe}</p>
+                <p>Kelas: <strong>${className}</strong> | Jam ke-${ev.jamKe}</p>
+                <p>Mata Pelajaran: <strong>${ev.subject || '-'}</strong></p>
+                <p>Oleh Guru: <strong>${teacherName}</strong></p>
                 <p>Jumlah Siswa: ${ev.records.length} Diabsen</p>
             `;
             listEl.appendChild(item);

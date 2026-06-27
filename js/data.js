@@ -100,7 +100,14 @@ window.DB = {
     
     getStudentsByClass: async (classId) => {
         const students = await window.DB.getStudents();
-        return students.filter(s => s.classId === classId);
+        const classStudents = students.filter(s => s.classId === classId);
+        // Sort alphabetically by name for consistent nomor absen ordering
+        classStudents.sort((a, b) => a.name.localeCompare(b.name, 'id'));
+        // Assign noAbsen if not already present
+        classStudents.forEach((s, idx) => {
+            if (!s.noAbsen) s.noAbsen = idx + 1;
+        });
+        return classStudents;
     },
     
     getSchedule: async () => {
