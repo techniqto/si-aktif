@@ -1,0 +1,2753 @@
+[
+  {
+    "id": "ATS-2026-06-26-X-1-M1-3",
+    "date": "2026-06-26",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0023",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0022",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0028",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-25-X-1-M1-3",
+    "date": "2026-06-25",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0022",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-24-X-1-M1-3",
+    "date": "2026-06-24",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0012",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-23-X-1-M1-3",
+    "date": "2026-06-23",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0006",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0016",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-22-X-1-M1-3",
+    "date": "2026-06-22",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0015",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0023",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0022",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-19-X-1-M1-3",
+    "date": "2026-06-19",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0005",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0021",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0016",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0026",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0030",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-18-X-1-M1-3",
+    "date": "2026-06-18",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0018",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-17-X-1-M1-3",
+    "date": "2026-06-17",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0029",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0012",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0018",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "terlambat"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-16-X-1-M1-3",
+    "date": "2026-06-16",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0023",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0022",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-15-X-1-M1-3",
+    "date": "2026-06-15",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0010",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0013",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-12-X-1-M1-3",
+    "date": "2026-06-12",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-11-X-1-M1-3",
+    "date": "2026-06-11",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-10-X-1-M1-3",
+    "date": "2026-06-10",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0019",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0012",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0018",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-09-X-1-M1-3",
+    "date": "2026-06-09",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0028",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0012",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-08-X-1-M1-3",
+    "date": "2026-06-08",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0010",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-05-X-1-M1-3",
+    "date": "2026-06-05",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0013",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0002",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0028",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "sakit"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-04-X-1-M1-3",
+    "date": "2026-06-04",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "izin"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-03-X-1-M1-3",
+    "date": "2026-06-03",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0017",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "izin"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-02-X-1-M1-3",
+    "date": "2026-06-02",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0008",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "sakit"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-06-01-X-1-M1-3",
+    "date": "2026-06-01",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0010",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "izin"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0030",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0003",
+        "status": "hadir"
+      }
+    ]
+  },
+  {
+    "id": "ATS-2026-05-29-X-1-M1-3",
+    "date": "2026-05-29",
+    "classId": "X-1",
+    "teacherId": "M1",
+    "subject": "Matematika",
+    "jamKe": 3,
+    "type": "guru_mapel",
+    "records": [
+      {
+        "studentId": "S0007",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0005",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0021",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0024",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0025",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0015",
+        "status": "terlambat"
+      },
+      {
+        "studentId": "S0010",
+        "status": "alfa"
+      },
+      {
+        "studentId": "S0013",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0004",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0001",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0009",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0011",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0002",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0017",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0020",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0006",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0016",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0026",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0023",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0022",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0028",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0008",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0019",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0014",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0027",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0029",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0012",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0018",
+        "status": "sakit"
+      },
+      {
+        "studentId": "S0030",
+        "status": "hadir"
+      },
+      {
+        "studentId": "S0003",
+        "status": "izin"
+      }
+    ]
+  }
+]
