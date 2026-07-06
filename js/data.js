@@ -15,7 +15,7 @@ const API_BASE = './api';
 const LS_PREFIX = 'siaktif_';
 
 // Version of the static data schema to force reset on new deployment
-const DB_VERSION = '2';
+const DB_VERSION = '3';
 
 // Check version and clear cache if mismatch
 if (localStorage.getItem(`${LS_PREFIX}db_version`) !== DB_VERSION) {

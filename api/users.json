@@ -23,13 +23,7 @@
     "subjects": [
       "Sosiologi"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "A1",
@@ -43,13 +37,9 @@
     "subjects": [
       "PAI"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": [],
+    "nip": "198110102023211011",
+    "tugasTambahan": "Koordinator MGMP PAI, Pembina ekskul Rohis"
   },
   {
     "id": "A2",
@@ -67,9 +57,14 @@
       "X-1",
       "X-2",
       "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8"
+    ],
+    "nip": "199706052023212018",
+    "tugasTambahan": "Pembina ekskul Keputrian, Koordinator PjBL X-1 & X-2"
   },
   {
     "id": "A3",
@@ -84,32 +79,31 @@
       "PAI"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-2",
+      "XI-3",
+      "XI-5",
+      "XI-6",
+      "XI-7"
+    ],
+    "nip": "197204032023211001",
+    "tugasTambahan": "Piket KBM"
   },
   {
     "id": "A4",
     "kodeGuru": "A4",
     "username": "A4",
     "password": "guru123",
-    "name": "Deri Hastuti, S.S.",
+    "name": "Dwi Hastuti, S.S.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
       "PAKAT"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": [],
+    "nip": "197301282014122002",
+    "tugasTambahan": "Pembina ekskul Fornika"
   },
   {
     "id": "A6",
@@ -123,13 +117,7 @@
     "subjects": [
       "PAK"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "O1",
@@ -146,8 +134,15 @@
     "teachingClasses": [
       "X-1",
       "X-2",
-      "XI-1"
-    ]
+      "X-3",
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8"
+    ],
+    "nip": "198306082022211005",
+    "tugasTambahan": "Koord. MGMP Penjas-Orkes, Wali Kelas X-1, Piket KBM"
   },
   {
     "id": "O2",
@@ -156,65 +151,45 @@
     "password": "guru123",
     "name": "Hariyanto Gatot Nugroho, S.Pd.",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "XI-5",
     "subjects": [
       "Penjas-Orkes"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-2",
+      "XI-3",
+      "XI-5",
+      "XI-6",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "198407012023211017",
+    "tugasTambahan": "Wali Kelas XI-5, Koordinator PjBL XI-5 & XI-6, Piket KBM, Pembina Ekskul Futsal"
   },
   {
     "id": "O3",
     "kodeGuru": "O3",
     "username": "O3",
     "password": "guru123",
-    "name": "Ardhi Putra Nugroho, S.Pd.",
+    "name": "Ardhi Putro Nugroho, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
       "Penjas-Orkes"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": [],
+    "nip": "198507052023211023",
+    "tugasTambahan": "Pembina Pramuka Putra, Pembina Ekskul Basket, Piket KBM"
   },
   {
     "id": "M1",
     "kodeGuru": "M1",
     "username": "M1",
     "password": "guru123",
-    "name": "Hj. Ati Susilawatie, S.Pd., M.M.",
-    "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
-    "subjects": [
-      "Matematika"
-    ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
-  },
-  {
-    "id": "M2",
-    "kodeGuru": "M2",
-    "username": "M2",
-    "password": "guru123",
-    "name": "Dra. Waris Meiny, S.",
+    "name": "Dra. Waris Meiny S.",
     "role": "guru",
     "isWaliKelas": true,
     "waliKelasId": "XI-7",
@@ -222,33 +197,47 @@
       "Matematika"
     ],
     "teachingClasses": [
+      "XI-1",
+      "XI-2",
+      "XI-3",
+      "XI-4",
+      "XI-5",
+      "XI-6",
       "XI-7",
-      "X-2",
-      "XI-1"
-    ]
+      "XI-8"
+    ],
+    "nip": "197005112008012014",
+    "tugasTambahan": "Wali Kelas XI-7"
+  },
+  {
+    "id": "M2",
+    "kodeGuru": "M2",
+    "username": "M2",
+    "password": "guru123",
+    "name": "Aqso Taufan Apino, M.Pd.",
+    "role": "guru",
+    "isWaliKelas": true,
+    "waliKelasId": "XI-3",
+    "subjects": [
+      "Matematika"
+    ],
+    "teachingClasses": [
+      "X-6",
+      "X-7",
+      "X-8",
+      "XI-1",
+      "XI-2",
+      "XI-3",
+      "XI-4",
+      "XI-5"
+    ],
+    "nip": "197110262017081001",
+    "tugasTambahan": "Koor. MGMP Matematika, Wali Kelas XI-3"
   },
   {
     "id": "M3",
     "kodeGuru": "M3",
     "username": "M3",
-    "password": "guru123",
-    "name": "Apto Taufan Apteno, M.Pd.",
-    "role": "guru",
-    "isWaliKelas": true,
-    "waliKelasId": "XI-3",
-    "subjects": [
-      "Matematika TL"
-    ],
-    "teachingClasses": [
-      "XI-3",
-      "X-2",
-      "XI-1"
-    ]
-  },
-  {
-    "id": "M4",
-    "kodeGuru": "M4",
-    "username": "M4",
     "password": "guru123",
     "name": "Hardiyanto, S.Pd.",
     "role": "guru",
@@ -261,9 +250,28 @@
       "X-1",
       "X-2",
       "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-4",
+      "X-5",
+      "XI-1"
+    ],
+    "nip": "198605032019031004",
+    "tugasTambahan": "Wakil Akademik"
+  },
+  {
+    "id": "M4",
+    "kodeGuru": "M4",
+    "username": "M4",
+    "password": "guru123",
+    "name": "Syaiful Bahri, M.Pd.",
+    "role": "guru",
+    "isWaliKelas": true,
+    "waliKelasId": "XII-1",
+    "subjects": [
+      "Matematika"
+    ],
+    "teachingClasses": [],
+    "nip": "199105232020121008",
+    "tugasTambahan": "Wali Kelas XII-1"
   },
   {
     "id": "M5",
@@ -278,9 +286,7 @@
       "Matematika TL"
     ],
     "teachingClasses": [
-      "XI-1",
-      "X-2",
-      "XI-1"
+      "XI-4"
     ]
   },
   {
@@ -291,15 +297,19 @@
     "name": "Bina Rahayu Setyasih, S.Pd.",
     "role": "guru",
     "isWaliKelas": true,
-    "waliKelasId": "X-3",
+    "waliKelasId": "X-2",
     "subjects": [
       "Biologi"
     ],
     "teachingClasses": [
-      "X-3",
+      "X-1",
       "X-2",
-      "XI-1"
-    ]
+      "X-3",
+      "X-4",
+      "X-5"
+    ],
+    "nip": "199303282019032015",
+    "tugasTambahan": "Staf Akademik, Ketua MGMP Biologi, Koordinator PjBL XII-1 & XII-2, Wali Kelas X-2"
   },
   {
     "id": "Bg2Bi3",
@@ -314,20 +324,14 @@
       "Biologi",
       "B.Indo"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "K1",
     "kodeGuru": "K1",
     "username": "K1",
     "password": "guru123",
-    "name": "Heni Purwaningsih, M.Pd.",
+    "name": "Drs. Amudi Lumbantoruan",
     "role": "guru",
     "isWaliKelas": true,
     "waliKelasId": "XI-2",
@@ -335,17 +339,18 @@
       "Kimia"
     ],
     "teachingClasses": [
-      "XI-2",
-      "X-2",
-      "XI-1"
-    ]
+      "XI-1",
+      "XI-2"
+    ],
+    "nip": "196912262017081001",
+    "tugasTambahan": "Koord. MGMP Kimia, Wali Kelas XI-2, Staf Kesiswaan dan Humas"
   },
   {
     "id": "K2",
     "kodeGuru": "K2",
     "username": "K2",
     "password": "guru123",
-    "name": "Drs. Amudi Lumbantoruan",
+    "name": "Yahdiana, S. Pd",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
@@ -353,12 +358,13 @@
       "Kimia"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-7",
+      "X-8",
+      "XI-3",
+      "XI-8"
+    ],
+    "nip": "196608022023212001",
+    "tugasTambahan": "Piket KBM"
   },
   {
     "id": "K3Pw4",
@@ -373,13 +379,7 @@
       "Kimia",
       "PKWU"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "K4Pw1",
@@ -394,11 +394,7 @@
       "Kimia",
       "PKWU"
     ],
-    "teachingClasses": [
-      "X-5",
-      "X-2",
-      "XI-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "Pw2Bi2",
@@ -413,13 +409,7 @@
       "PKWU",
       "B.Indo"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "E1",
@@ -429,22 +419,23 @@
     "name": "Dra. Niken Sutiyaningsih, M.Pd.",
     "role": "guru",
     "isWaliKelas": true,
-    "waliKelasId": "XI-3",
+    "waliKelasId": "XII-3",
     "subjects": [
       "Ekonomi"
     ],
     "teachingClasses": [
-      "XI-3",
       "X-2",
-      "XI-1"
-    ]
+      "X-3"
+    ],
+    "nip": "196904302008012011",
+    "tugasTambahan": "Koord. MGMP Ekonomi, Wali Kelas XII-3, Piket KBM"
   },
   {
     "id": "E2",
     "kodeGuru": "E2",
     "username": "E2",
     "password": "guru123",
-    "name": "Erna Farkah, S.Pd.",
+    "name": "Erna Farikah, S.Pd.",
     "role": "guru",
     "isWaliKelas": true,
     "waliKelasId": "X-6",
@@ -452,10 +443,14 @@
       "Ekonomi"
     ],
     "teachingClasses": [
+      "X-4",
+      "X-5",
       "X-6",
-      "X-2",
-      "XI-1"
-    ]
+      "X-7",
+      "X-8"
+    ],
+    "nip": "197401312017082001",
+    "tugasTambahan": "Staf Kesiswaan dan Humas, Wali Kelas X-6"
   },
   {
     "id": "E3Pw3",
@@ -470,72 +465,68 @@
       "Ekonomi",
       "PKWU"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "F1",
     "kodeGuru": "F1",
     "username": "F1",
     "password": "guru123",
-    "name": "Juni Sudiyo, S.Pd.",
+    "name": "Juni Sudibyo, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
-      "Fisika TL",
       "Fisika"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "XI-1"
+    ],
+    "nip": "197106161998021000",
+    "tugasTambahan": "Wakil Sarpras Humas"
   },
   {
     "id": "F2",
     "kodeGuru": "F2",
     "username": "F2",
     "password": "guru123",
-    "name": "Sri Subektil, S.Pd.",
+    "name": "Sri Subekti, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
-      "Fisika TL"
+      "Fisika"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-8",
+      "XI-2",
+      "XI-3",
+      "XI-4",
+      "XI-5"
+    ],
+    "nip": "197009302017082002",
+    "tugasTambahan": "Piket KBM, Koordinator PjBL XI-1 & XI-2, Pembina Ekskul Alistra, Koor. MGMP Fisika"
   },
   {
     "id": "F3",
     "kodeGuru": "F3",
     "username": "F3",
     "password": "guru123",
-    "name": "Kunoro Tri Muryanto, M.Pd.",
+    "name": "Kuncoro Tri Muryanto, M.Pd.",
     "role": "guru",
     "isWaliKelas": true,
-    "waliKelasId": "XII-2",
+    "waliKelasId": "XII-4",
     "subjects": [
       "Fisika"
     ],
     "teachingClasses": [
-      "XII-2",
+      "X-1",
       "X-2",
-      "XI-1"
-    ]
+      "X-3",
+      "X-4"
+    ],
+    "nip": "198608052019031003",
+    "tugasTambahan": "Wali Kelas XII-4, Koordinator PjBL XII-3, XII-4 & XII-5, Pembina ekskul KIR"
   },
   {
     "id": "F4",
@@ -550,12 +541,15 @@
       "Fisika"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-2"
+    ],
+    "nip": "199003072020121010",
+    "tugasTambahan": "Kepala Laboratorium, Koordinator PjBL X-3 & X-4, Pembina ekskul Pattupala"
   },
   {
     "id": "S1",
@@ -564,16 +558,17 @@
     "password": "guru123",
     "name": "Tendy Christanto, S.Pd.",
     "role": "guru",
-    "isWaliKelas": true,
-    "waliKelasId": "X-2",
+    "isWaliKelas": false,
+    "waliKelasId": null,
     "subjects": [
       "Sosiologi"
     ],
     "teachingClasses": [
-      "X-2",
-      "X-2",
-      "XI-1"
-    ]
+      "XI-6",
+      "XI-7"
+    ],
+    "nip": "199001082022211005",
+    "tugasTambahan": "Pembina ekskul Band"
   },
   {
     "id": "S2",
@@ -582,8 +577,8 @@
     "password": "guru123",
     "name": "Muhammad Novel, S.Pd.",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "X-3",
     "subjects": [
       "Sosiologi"
     ],
@@ -591,9 +586,14 @@
       "X-1",
       "X-2",
       "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8"
+    ],
+    "nip": "198211252022211024",
+    "tugasTambahan": "Wali Kelas X-3, Pembina OSIS, Koordinator MGMP Sosiologi"
   },
   {
     "id": "Sj1",
@@ -608,10 +608,13 @@
       "Sejarah"
     ],
     "teachingClasses": [
-      "XII-5",
+      "X-1",
       "X-2",
-      "XI-1"
-    ]
+      "X-3",
+      "XI-3"
+    ],
+    "nip": "197411252008012013",
+    "tugasTambahan": "Staf Sarpras dan Administrasi, Koordinator MGMP Sejarah, Wali Kelas XII-5, Piket KBM"
   },
   {
     "id": "Sj2Bi4",
@@ -626,31 +629,26 @@
       "Sejarah",
       "B.Indo"
     ],
-    "teachingClasses": [
-      "X-8",
-      "X-2",
-      "XI-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "Sj3",
     "kodeGuru": "Sj3",
     "username": "Sj3",
     "password": "guru123",
-    "name": "Yulia Rahmah, S.Pd.",
+    "name": "Kuncoro Tri Muryanto, M.Pd.",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "XII-4",
     "subjects": [
       "Sejarah"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-7"
+    ],
+    "nip": "198608052019031003",
+    "tugasTambahan": "Wali Kelas XII-4, Koordinator PjBL XII-3, XII-4 & XII-5, Pembina ekskul KIR"
   },
   {
     "id": "G1",
@@ -660,25 +658,7 @@
     "name": "Ida Royani, S.Pd.",
     "role": "guru",
     "isWaliKelas": true,
-    "waliKelasId": "XI-3",
-    "subjects": [
-      "Geografi"
-    ],
-    "teachingClasses": [
-      "XI-3",
-      "X-2",
-      "XI-1"
-    ]
-  },
-  {
-    "id": "G2",
-    "kodeGuru": "G2",
-    "username": "G2",
-    "password": "guru123",
-    "name": "Laili Hadiah, M.Pd.",
-    "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "waliKelasId": "XI-8",
     "subjects": [
       "Geografi"
     ],
@@ -686,9 +666,33 @@
       "X-1",
       "X-2",
       "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-4",
+      "X-5",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "197412212000032005",
+    "tugasTambahan": "Pembina ekskul Saman, Piket KBM, Wali Kelas XI-8"
+  },
+  {
+    "id": "G2",
+    "kodeGuru": "G2",
+    "username": "G2",
+    "password": "guru123",
+    "name": "Laili Hadiati, M.Pd.I.",
+    "role": "guru",
+    "isWaliKelas": true,
+    "waliKelasId": "XI-7",
+    "subjects": [
+      "Geografi"
+    ],
+    "teachingClasses": [
+      "X-6",
+      "X-7",
+      "X-8"
+    ],
+    "nip": "197307152008012022",
+    "tugasTambahan": "Pembina Pramuka Putri, Piket KBM, Wali Kelas XI-7"
   },
   {
     "id": "G3",
@@ -697,18 +701,19 @@
     "password": "guru123",
     "name": "Rudi Laksono, S.Pd.",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "XI-6",
     "subjects": [
       "Geografi"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "XI-3",
+      "XI-4",
+      "XI-5",
+      "XI-6"
+    ],
+    "nip": "19680322016111001",
+    "tugasTambahan": "Koord MGMP Geografi, Piket KBM, Wali Kelas XI-6"
   },
   {
     "id": "G4",
@@ -722,13 +727,7 @@
     "subjects": [
       "Geografi"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "Pn1",
@@ -740,55 +739,59 @@
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
-      "Pend. Pancasila"
+      "PPkn"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": [],
+    "nip": "197303192008011016",
+    "tugasTambahan": "Waka Kesiswaan dan Humas"
   },
   {
     "id": "Pn2",
     "kodeGuru": "Pn2",
     "username": "Pn2",
     "password": "guru123",
-    "name": "Deli Rosadi, S.Pd.",
+    "name": "Dra. Rista Nababan",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "XI-1",
     "subjects": [
-      "Pend. Pancasila"
+      "PPkn"
     ],
     "teachingClasses": [
       "X-1",
       "X-2",
       "X-3",
+      "X-4",
+      "X-7",
+      "X-8",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-2",
+      "XI-3",
+      "XI-4",
+      "XI-6",
+      "XI-8"
+    ],
+    "nip": "196607101993032004",
+    "tugasTambahan": "Koordinator MGMP Pancasila, Wali Kelas XI-1"
   },
   {
     "id": "Pn3",
     "kodeGuru": "Pn3",
     "username": "Pn3",
     "password": "guru123",
-    "name": "Dra. Rinta Nababan",
+    "name": "Muhammad Makhrus, S.Pd.I",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
-      "Pend. Pancasila"
+      "Pendidikan Pancasila"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-5",
+      "X-6"
+    ],
+    "nip": "197204032023211001",
+    "tugasTambahan": "Piket KBM"
   },
   {
     "id": "Bi1",
@@ -798,15 +801,16 @@
     "name": "Dra. Supadmi, M.Pd.",
     "role": "guru",
     "isWaliKelas": true,
-    "waliKelasId": "XI-6",
+    "waliKelasId": "XII-6",
     "subjects": [
       "Bahasa Indonesia"
     ],
     "teachingClasses": [
-      "XI-6",
-      "X-2",
-      "XI-1"
-    ]
+      "XI-1",
+      "XI-2"
+    ],
+    "nip": "196806302017062001",
+    "tugasTambahan": "Wali Kelas XII-6, Koordinator MGMP Bahasa Indonesia"
   },
   {
     "id": "I1",
@@ -821,10 +825,17 @@
       "Bahasa Inggris"
     ],
     "teachingClasses": [
+      "X-7",
+      "XI-1",
+      "XI-2",
+      "XI-3",
       "XI-4",
-      "X-2",
-      "XI-1"
-    ]
+      "XI-6",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "197805012006042004",
+    "tugasTambahan": "Wali Kelas XI-4, Piket KBM, Pembina ekskul LC"
   },
   {
     "id": "I2",
@@ -839,17 +850,18 @@
       "Bahasa Inggris"
     ],
     "teachingClasses": [
-      "XII-8",
-      "X-2",
-      "XI-1"
-    ]
+      "X-8",
+      "XI-5"
+    ],
+    "nip": "197601142014122001",
+    "tugasTambahan": "Pembina ekskul Fordesi, Piket KBM, Koordinator MGMP Bahasa Inggris, Wali Kelas XII-8"
   },
   {
     "id": "I3",
     "kodeGuru": "I3",
     "username": "I3",
     "password": "guru123",
-    "name": "Mutu Resfi Kinasih, S.Pd.",
+    "name": "Mutia Resfi Kinasih, S.Pd.",
     "role": "guru",
     "isWaliKelas": true,
     "waliKelasId": "X-4",
@@ -857,10 +869,15 @@
       "Bahasa Inggris"
     ],
     "teachingClasses": [
-      "X-4",
+      "X-1",
       "X-2",
-      "XI-1"
-    ]
+      "X-3",
+      "X-4",
+      "X-5",
+      "X-6"
+    ],
+    "nip": "199505082020122022",
+    "tugasTambahan": "Staf Akademik, Pembina ekskul PMR / UKS, Wali Kelas X-4"
   },
   {
     "id": "TI1",
@@ -874,11 +891,7 @@
     "subjects": [
       "Informatika"
     ],
-    "teachingClasses": [
-      "X-7",
-      "X-2",
-      "XI-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "TI2",
@@ -892,13 +905,7 @@
     "subjects": [
       "Informatika"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "TI3",
@@ -912,80 +919,80 @@
     "subjects": [
       "Informatika"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": []
   },
   {
     "id": "BK1",
     "kodeGuru": "BK1",
     "username": "BK1",
     "password": "guru123",
-    "name": "Nina Maulana, S.Pd.",
+    "name": "Nina Muziana, S.Pd.",
     "role": "guru",
-    "isWaliKelas": false,
-    "waliKelasId": null,
+    "isWaliKelas": true,
+    "waliKelasId": "XII-2",
     "subjects": [
-      "BK"
+      "Bimbingan Konseling"
     ],
     "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-2",
+      "XI-4",
+      "XI-5",
+      "XI-7"
+    ],
+    "nip": "196605172016102000",
+    "tugasTambahan": "Koordinator MGBK, Piket KBM, Wali Kelas XII-2"
   },
   {
     "id": "BK2",
     "kodeGuru": "BK2",
     "username": "BK2",
     "password": "guru123",
-    "name": "Neni Rahayati, S.Pd.",
+    "name": "Neni Rohayati, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
-      "BK"
+      "Bimbingan Konseling"
     ],
     "teachingClasses": [
       "X-1",
       "X-2",
       "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8",
+      "XI-6",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "196610112016102001",
+    "tugasTambahan": "Piket KBM"
   },
   {
     "id": "Sb1",
     "kodeGuru": "Sb1",
     "username": "Sb1",
     "password": "guru123",
-    "name": "Sukma Parousla Pistera, S.Pd.",
+    "name": "Sukma Parousia Pieters, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
     "subjects": [
       "Seni Budaya"
     ],
-    "teachingClasses": [
-      "X-1",
-      "X-2",
-      "X-3",
-      "XI-1",
-      "XII-1"
-    ]
+    "teachingClasses": [],
+    "nip": "199202012019031013",
+    "tugasTambahan": "Pembina ekskul Fabavosa, Koordinator MGMP Seni Budaya, Koordinator PjBL XII-6, XII-7 & XII-8"
   },
   {
     "id": "Sb2",
     "kodeGuru": "Sb2",
     "username": "Sb2",
     "password": "guru123",
-    "name": "Desby Nurtosha, S.Pd.",
+    "name": "Desby Nurischa, S.Pd.",
     "role": "guru",
     "isWaliKelas": false,
     "waliKelasId": null,
@@ -993,11 +1000,351 @@
       "Seni Budaya"
     ],
     "teachingClasses": [
+      "X-8",
+      "XI-1",
+      "XI-3",
+      "XI-4",
+      "XI-5",
+      "XI-6",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "199212252019032010",
+    "tugasTambahan": "Kepala Perpustakaan, Pembina ekskul Tari Tradisional, Koordinator PjBL XI-3 & XI-4, Piket KBM"
+  },
+  {
+    "id": "G",
+    "kodeGuru": "G",
+    "username": "g",
+    "password": "guru123",
+    "name": "Yunita Zana, M.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Geografi"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [],
+    "nip": "197909232003122004",
+    "tugasTambahan": "Kepala SMA Negeri 47 Jakarta"
+  },
+  {
+    "id": "A5",
+    "kodeGuru": "A5",
+    "username": "a5",
+    "password": "guru123",
+    "name": "Fitri Sihombing, S.Pd.",
+    "role": "guru",
+    "subjects": [
+      "PAK"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [],
+    "nip": "",
+    "tugasTambahan": "Pembina ekskul Rohkris, Piket KBM"
+  },
+  {
+    "id": "Bg2",
+    "kodeGuru": "Bg2",
+    "username": "bg2",
+    "password": "guru123",
+    "name": "Ria Lestari S.Pd",
+    "role": "guru",
+    "subjects": [
+      "Biologi"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-6",
+      "X-7",
+      "X-8",
+      "XI-1",
+      "XI-2"
+    ],
+    "nip": "199212202020122028",
+    "tugasTambahan": "Pembina ekskul Modern Dance, Piket KBM, Koordinator PjBL XI-7 & XI-8"
+  },
+  {
+    "id": "Bi4",
+    "kodeGuru": "Bi4",
+    "username": "bi4",
+    "password": "guru123",
+    "name": "Ria Lestari S.Pd",
+    "role": "guru",
+    "subjects": [
+      "Bahasa Indonesia"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "XI-6"
+    ],
+    "nip": "199212202020122028",
+    "tugasTambahan": "Pembina ekskul Modern Dance, Piket KBM, Koordinator PjBL XI-7 & XI-8"
+  },
+  {
+    "id": "Pw1",
+    "kodeGuru": "Pw1",
+    "username": "pw1",
+    "password": "guru123",
+    "name": "Yahdiana, S. Pd",
+    "role": "guru",
+    "subjects": [
+      "PKWU"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-2",
+      "X-3",
+      "X-4",
+      "X-5",
+      "X-6"
+    ],
+    "nip": "196608022023212001",
+    "tugasTambahan": "Piket KBM"
+  },
+  {
+    "id": "K3",
+    "kodeGuru": "K3",
+    "username": "k3",
+    "password": "guru123",
+    "name": "Gilang Nurfajarudin, S.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Kimia"
+    ],
+    "isWaliKelas": true,
+    "waliKelasId": "X-5",
+    "teachingClasses": [
       "X-1",
       "X-2",
       "X-3",
+      "X-4",
+      "X-5",
+      "X-6",
+      "XI-4",
+      "XI-5"
+    ],
+    "nip": "198405102022211026",
+    "tugasTambahan": "Koordinator MGMP PKWU, Staff Akademik, Pembina ekskul Marching Band, Wali Kelas X-5, Koordinator PjBL X-5 & X-6"
+  },
+  {
+    "id": "Pw2",
+    "kodeGuru": "Pw2",
+    "username": "pw2",
+    "password": "guru123",
+    "name": "Karnu, S.E.",
+    "role": "guru",
+    "subjects": [
+      "PKWU"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-1",
+      "X-7",
+      "X-8",
       "XI-1",
-      "XII-1"
-    ]
+      "XI-5"
+    ],
+    "nip": "197204122024211006",
+    "tugasTambahan": "Pembina ekskul Bela Diri (Silat)"
+  },
+  {
+    "id": "Bi3",
+    "kodeGuru": "Bi3",
+    "username": "bi3",
+    "password": "guru123",
+    "name": "Karnu, S.E.",
+    "role": "guru",
+    "subjects": [
+      "Bahasa Indonesia"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-3",
+      "X-4",
+      "X-5",
+      "X-6"
+    ],
+    "nip": "197204122024211006",
+    "tugasTambahan": "Pembina ekskul Bela Diri (Silat)"
+  },
+  {
+    "id": "E3",
+    "kodeGuru": "E3",
+    "username": "e3",
+    "password": "guru123",
+    "name": "Rafiani, S.Pd., M.M.",
+    "role": "guru",
+    "subjects": [
+      "Ekonomi"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-1",
+      "XI-6",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "198105292022212031",
+    "tugasTambahan": "Piket KBM, Pembina Ekskul Teater"
+  },
+  {
+    "id": "Pw3",
+    "kodeGuru": "Pw3",
+    "username": "pw3",
+    "password": "guru123",
+    "name": "Rafiani, S.Pd., M.M.",
+    "role": "guru",
+    "subjects": [
+      "PKWU"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "XI-2",
+      "XI-3",
+      "XI-4"
+    ],
+    "nip": "198105292022212031",
+    "tugasTambahan": "Piket KBM, Pembina Ekskul Teater"
+  },
+  {
+    "id": "Sj4",
+    "kodeGuru": "Sj4",
+    "username": "sj4",
+    "password": "guru123",
+    "name": "Ali Rapsanjani, S.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Sejarah"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [],
+    "nip": "199003072020121010",
+    "tugasTambahan": "Kepala Laboratorium, Koordinator PjBL X-3 & X-4, Pembina ekskul Pattupala"
+  },
+  {
+    "id": "Sj5",
+    "kodeGuru": "Sj5",
+    "username": "sj5",
+    "password": "guru123",
+    "name": "Muhammad Novel, S.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Sejarah"
+    ],
+    "isWaliKelas": true,
+    "waliKelasId": "X-3",
+    "teachingClasses": [
+      "XI-5",
+      "XI-7"
+    ],
+    "nip": "198211252022211024",
+    "tugasTambahan": "Wali Kelas X-3, Pembina OSIS, Koordinator MGMP Sosiologi"
+  },
+  {
+    "id": "Sj2",
+    "kodeGuru": "Sj2",
+    "username": "sj2",
+    "password": "guru123",
+    "name": "Tri Sumardiati, M.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Sejarah"
+    ],
+    "isWaliKelas": true,
+    "waliKelasId": "X-8",
+    "teachingClasses": [
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8",
+      "XI-7"
+    ],
+    "nip": "197711032023212006",
+    "tugasTambahan": "Pembina ekskul Paskibra, Wali Kelas X-8, Koordinator PjBL X-7 & X-8, Piket KBM"
+  },
+  {
+    "id": "Bi2",
+    "kodeGuru": "Bi2",
+    "username": "bi2",
+    "password": "guru123",
+    "name": "Mochti Lestari",
+    "role": "guru",
+    "subjects": [
+      "Bahasa Indonesia"
+    ],
+    "isWaliKelas": "",
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-1",
+      "X-2",
+      "X-7",
+      "X-8",
+      "XI-1",
+      "XI-3",
+      "XI-4",
+      "XI-5",
+      "XI-7",
+      "XI-8"
+    ],
+    "nip": "196711212017062000",
+    "tugasTambahan": "-"
+  },
+  {
+    "id": "Tl1",
+    "kodeGuru": "Tl1",
+    "username": "tl1",
+    "password": "guru123",
+    "name": "Deden Suryana, S.Pd.",
+    "role": "guru",
+    "subjects": [
+      "Informatika"
+    ],
+    "isWaliKelas": true,
+    "waliKelasId": "X-7",
+    "teachingClasses": [
+      "X-4",
+      "X-5",
+      "X-6",
+      "X-7",
+      "X-8",
+      "XI-3",
+      "XI-4",
+      "XI-6",
+      "XI-7"
+    ],
+    "nip": "197903022014121002",
+    "tugasTambahan": "Koordinator MGMP Informatika, Pembina ekskul Robotik, Wali Kelas X-7, Staf Sarpras dan Administrasi"
+  },
+  {
+    "id": "Tl2",
+    "kodeGuru": "Tl2",
+    "username": "tl2",
+    "password": "guru123",
+    "name": "Hamzah Purwanto, S.Kom.",
+    "role": "guru",
+    "subjects": [
+      "Informatika"
+    ],
+    "isWaliKelas": false,
+    "waliKelasId": null,
+    "teachingClasses": [
+      "X-1",
+      "X-2",
+      "X-3",
+      "XI-8"
+    ],
+    "nip": "198904022022211010",
+    "tugasTambahan": "Pembina ekskul Fokus"
   }
 ]
