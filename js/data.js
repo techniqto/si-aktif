@@ -14,6 +14,19 @@ const API_BASE = './api';
 // localStorage prefix
 const LS_PREFIX = 'siaktif_';
 
+// Version of the static data schema to force reset on new deployment
+const DB_VERSION = '2';
+
+// Check version and clear cache if mismatch
+if (localStorage.getItem(`${LS_PREFIX}db_version`) !== DB_VERSION) {
+    const collections = ['users', 'classes', 'students', 'schedules', 'attendance_daily', 'attendance_subject', 'settings'];
+    for (const col of collections) {
+        localStorage.removeItem(`${LS_PREFIX}${col}`);
+    }
+    localStorage.setItem(`${LS_PREFIX}db_version`, DB_VERSION);
+    console.log('SI-AKTIF: Data version updated, localStorage cleared.');
+}
+
 window.DB = {
     // --- Internal Helpers ---
 
